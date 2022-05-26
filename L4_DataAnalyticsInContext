@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:39:16.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PpV0r1YyG5j2yk29z_dT" version="18.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:45:22.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9R2wO9Vxu4h4up6vTcTy" version="18.1.2" type="github" pages="11">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -550,7 +550,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wRrbra0Vmy-sMutNdcKH" name="RulesForDataSci">
-    <mxGraphModel dx="1950" dy="1864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,34 +558,34 @@
           <mxGeometry x="125" y="230" width="420" height="170" as="geometry" />
         </mxCell>
         <mxCell id="onsnsR_igFUiO6nPPees-2" value="What principles should govern data science?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=0;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="390" width="440" height="200" as="geometry" />
+          <mxGeometry x="470" y="364" width="250" height="156" as="geometry" />
         </mxCell>
         <mxCell id="wX2W0H92oRkkMjgqdyea-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://presley-assets.decoded.com/ddb23647-d21c-4edc-842d-8a13167b83bd_data_analytics_lifecycle.png;" vertex="1" parent="1">
-          <mxGeometry x="785.33" y="-28" width="354.67" height="266" as="geometry" />
+          <mxGeometry x="1605.33" y="40" width="354.67" height="266" as="geometry" />
         </mxCell>
         <mxCell id="gaMI2rPBGpVP7ORlIyXk-1" value="&lt;ul style=&quot;color: rgb(0, 0, 0); font-size: 16px; list-style-type: disc; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Relevant stakeholders are often ignored/neglected&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Cleaning &amp;amp; transforming data always involves some data loss&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;The choice of modelling techniques can cause issues (e.g. black-box options)&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;The training of models and the data selected can result in biased results&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;&#39;Successful&#39; is a fascinating term: to who? Measured how?&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Legal requirements around anonymisation/preservation of records&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Barlow Condensed;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
-          <mxGeometry x="650" y="234" width="510" height="180" as="geometry" />
+          <mxGeometry x="1470" y="302" width="510" height="180" as="geometry" />
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--1" value="Eg., A COVID case.&lt;br&gt;&lt;br&gt;During COVID the government used an &quot;&lt;i&gt;&lt;u&gt;algorithm&lt;/u&gt;&lt;/i&gt;&quot; to determine a grade.&lt;br&gt;&lt;br&gt;This algorithm knocked a person down three grades, despite A* performance -- due to &lt;b&gt;POST CODE.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using teacher predictions, A* -&amp;gt; D -&amp;gt; A*" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="37" y="13" width="240" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--2" value="measurements&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="410" width="90" height="105" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--2" value="measurements&amp;nbsp; (data)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="32" y="408.5" width="90" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--5" value="decision based &lt;br&gt;on a mean()" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--5" value="decision based &lt;br&gt;on a mean()" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="302" y="425" width="147" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--6" value="grades" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="400" width="210" height="210" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--6" value="postcodes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="400" y="12" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--7" value="newcastle:&lt;br&gt;DD&lt;b&gt;DDEDDCA*D&lt;/b&gt;DDE" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="350" y="-10" width="110" height="110" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--7" value="newcastle:&lt;br&gt;DD&lt;b&gt;DDEDDCA*D&lt;/b&gt;DDE" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="302" y="13" width="118" height="118" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--8" value="private estate:&lt;br&gt;A&lt;b&gt;AAAA*DCA&lt;/b&gt;*" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="455" y="150" width="100" height="100" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--8" value="westminister:&lt;br&gt;A&lt;b&gt;AAAA*DCA&lt;/b&gt;*" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="500" y="13" width="117" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--9" value="prepared data is &lt;i&gt;where&lt;/i&gt;&amp;nbsp;the intelligence lies" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="720" width="120" height="60" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--9" value="prepared data is &lt;i&gt;where&lt;/i&gt;&amp;nbsp;the intelligence lies" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="17" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--10" value="Assistance: provide a human being with information using AI&lt;br&gt;&lt;br&gt;Automation: replace a human being with AI&lt;br&gt;&lt;br&gt;Augmentation: part of the decision is AI, part of it is human&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="610" width="150" height="210" as="geometry" />
@@ -593,74 +593,65 @@
         <mxCell id="25RtpjqeCwj4Zm4OFsk--11" value="when should we use automation vs. assistance?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="277" y="550" width="223" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--12" value="mean(), median(), mode()" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="170" y="425" width="147" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--13" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="930" y="435" width="215" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--14" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="580" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--15" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="910" y="422.5" width="80" height="80" as="geometry" />
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--12" value="mean(), median(), mode()" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="130" y="425" width="187" height="80" as="geometry" />
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--16" value="STATISTICALLY ACCURATE&lt;br&gt;&amp;nbsp;(UNBIASED STATISTICALLY)" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="25RtpjqeCwj4Zm4OFsk--13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="700" y="650" as="sourcePoint" />
-            <mxPoint x="1040" y="730" as="targetPoint" />
+            <mxPoint x="515" y="253" as="sourcePoint" />
+            <mxPoint x="855" y="333" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="925" y="732.5" width="215" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--18" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="877.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--19" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="905" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--20" value="STATISTICALLY ACCURATE&lt;br&gt;&amp;nbsp;(UNBIASED STATISTICALLY)" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="25RtpjqeCwj4Zm4OFsk--17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="947.5" as="sourcePoint" />
-            <mxPoint x="1035" y="1027.5" as="targetPoint" />
+            <mxPoint x="510" y="550.5" as="sourcePoint" />
+            <mxPoint x="835" y="583" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--21" value="police get sent here" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="970" y="750" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="925" y="1022.5" width="215" height="215" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--25" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="1167.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--26" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="905" y="1010" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--27" value="STATISTICALLY ACCURATE&lt;br&gt;&amp;nbsp;(UNBIASED STATISTICALLY)" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="25RtpjqeCwj4Zm4OFsk--24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="1237.5" as="sourcePoint" />
-            <mxPoint x="1035" y="1317.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--28" value="police get sent here" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1040" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--29" value="most of the crime data comes from areas &lt;i&gt;historically &lt;/i&gt;&lt;b&gt;policed&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="37" y="850" width="190" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--30" value="what areas (eg., in the US) have &lt;i&gt;historically been highly policies?&lt;br&gt;&lt;/i&gt;ethnic minorities, black" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="37" y="980" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--31" value="does a contemporary police force need to be racist, for its decisions to be racist?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="47" y="1130" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="25RtpjqeCwj4Zm4OFsk--33" value="data will always be racist" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
-          <mxGeometry x="972.5" y="1330" width="120" height="80" as="geometry" />
+          <mxGeometry x="970" y="550" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7ZQUbh7UrZfc4TKw4mA1-1" value="How will a data scientist behave at every stage of the lifecycle in order to avoid/support the issues we&#39;ve discussed?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="580" width="480" height="200" as="geometry" />
+          <mxGeometry x="1330" y="490" width="480" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--13" value="A city map" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="759" y="54" width="189.54828660436138" height="189.54828660436138" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="735" y="315.2819314641745" width="189.54828660436138" height="189.54828660436138" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--24" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="735" y="570.9517133956386" width="189.54828660436138" height="189.54828660436138" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--14" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="870" y="183" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--15" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="35.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--19" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="710" y="293" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--18" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="860" y="440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--26" value="low crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="710" y="553" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--21" value="police get sent here" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="775" y="323" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--28" value="police get sent here" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="765" y="593" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--29" value="most of the crime data comes from areas &lt;i&gt;historically &lt;/i&gt;&lt;b&gt;policed&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="835" y="13" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--30" value="what areas (eg., in the US) have &lt;i&gt;historically been highly policies?&lt;br&gt;&lt;/i&gt;ethnic minorities, black" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="965" y="305" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--25" value="high crime" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="865" y="723" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
