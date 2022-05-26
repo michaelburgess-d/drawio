@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:28:52.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_V1U96Zht7BkAozRyHo7" version="18.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:33:03.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="sOD2jtafWnu5s9kz-GZN" version="18.1.2" type="github" pages="7">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -389,29 +389,35 @@
         <mxCell id="ejq5SGU3LafO_m9mfMrl-9" value="Systems and processes that govern ethics" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="150" y="180" width="240" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-10" target="ejq5SGU3LafO_m9mfMrl-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-10" value="How does ethical reasoning align with organizational needs?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="240" height="90" as="geometry" />
+          <mxGeometry x="470" y="150" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-11" value="Do organizations have ethics?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="510" y="190" width="120" height="120" as="geometry" />
+          <mxGeometry x="700" y="230" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-21" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-12" target="ejq5SGU3LafO_m9mfMrl-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-12" target="ejq5SGU3LafO_m9mfMrl-22">
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-23" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-12" target="ejq5SGU3LafO_m9mfMrl-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-12" value="Does it make sense to attribute ethical reasoning &lt;i&gt;to&lt;/i&gt; organizations?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="800" y="120" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-14" value="Charities are ethical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="200" width="240" height="90" as="geometry" />
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-14" target="ejq5SGU3LafO_m9mfMrl-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-14" value="Seems like: charities are ethical?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1078" y="210" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-15" value="Eg., amazon is very effective at allocating resources, &lt;br&gt;but may use &quot;invasive&quot; data collections" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="110" y="-10" width="303" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-16" value="If so, when are organizations ethical?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="870" y="640" width="250" height="90" as="geometry" />
+          <mxGeometry x="870" y="540" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-17" value="would we say a car is ethical?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="890" y="50" width="250" height="80" as="geometry" />
@@ -419,7 +425,10 @@
         <mxCell id="ejq5SGU3LafO_m9mfMrl-20" value="Amazon is unethical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1078" y="310" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-22" value="Charities are ethical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-22" target="ejq5SGU3LafO_m9mfMrl-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-22" value="but it doesnt matter.." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="805" y="435" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-24" value="is a collection of people a person?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
@@ -430,6 +439,18 @@
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-26" value="may be not?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
           <mxGeometry x="1490" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-27" value="does ethical &lt;i&gt;apply&lt;/i&gt;&amp;nbsp;to an organization?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="480" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-30" value="They care about their (brand) image" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-34" value="this seems an&amp;nbsp;&lt;i&gt;unethical&amp;nbsp;reason to be good&lt;/i&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-10" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-36" value="By design, are non-profit, so it&#39;s harder for the charity to pursue non-ethical&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="80" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
