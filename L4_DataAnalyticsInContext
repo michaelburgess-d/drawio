@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:17:39.681Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zYGc5BKuiYi4JrkPlI2c" version="18.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:18:24.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hPXLGlNjX02PUT_QWinR" version="18.1.2" type="github" pages="10">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -544,6 +544,9 @@
         </mxCell>
         <mxCell id="onsnsR_igFUiO6nPPees-2" value="What principles should govern data science?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="460" width="490" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wX2W0H92oRkkMjgqdyea-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://presley-assets.decoded.com/ddb23647-d21c-4edc-842d-8a13167b83bd_data_analytics_lifecycle.png;" vertex="1" parent="1">
+          <mxGeometry x="600" y="24" width="520" height="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
