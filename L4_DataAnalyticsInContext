@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:48:07.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YM9-w33c02DIrpylhpUl" version="18.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:50:05.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SnL-qwx3feu2uVS6g0qU" version="18.1.2" type="github" pages="6">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -318,7 +318,7 @@
         <mxCell id="-6SI1d-G83hp_6s8Qdcl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="-6SI1d-G83hp_6s8Qdcl-1" target="-6SI1d-G83hp_6s8Qdcl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-1" value="Accountability?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-1" value="What is Accountability?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="320" height="220" as="geometry" />
         </mxCell>
         <mxCell id="-6SI1d-G83hp_6s8Qdcl-2" value="What is it?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
@@ -359,6 +359,15 @@
         </mxCell>
         <mxCell id="-6SI1d-G83hp_6s8Qdcl-17" value="&amp;amp; then some concequences" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="810" y="600" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-18" value="What problems are there in data science, &lt;br&gt;with holding any &lt;i&gt;decision-making process&lt;/i&gt;&amp;nbsp;&lt;b&gt;to account&lt;/b&gt;?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="580" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-19" value="Who&#39;s the person making the decision?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="20" y="440" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-20" value="Eg., there is no person.&amp;nbsp;&lt;br&gt;&lt;br&gt;Eg., AI says &lt;br&gt;NO BANK LOAN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="600" width="250" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
