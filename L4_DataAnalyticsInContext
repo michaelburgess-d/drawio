@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:49:48.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="g--E0Ph8f7ixgRs4uM9y" version="18.1.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:50:05.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mB7nQQ3xcPtZZuhO_icW" version="18.1.2" type="github" pages="9">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -537,6 +537,14 @@
         <mxCell id="P3T4_Oxkot6VSsgjeXOk-1" value="What do you think about these &lt;br&gt;ethical questions and case-studies?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;fontStyle=1;strokeColor=none;" vertex="1" parent="P3T4_Oxkot6VSsgjeXOk-2">
           <mxGeometry x="420" y="260" width="400" height="120" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wRrbra0Vmy-sMutNdcKH" name="RulesForDataSci">
+    <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
