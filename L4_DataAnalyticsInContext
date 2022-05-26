@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:59:38.398Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ba-x_qXMFGXSLmHzmiJw" version="18.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:00:21.854Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rH1-TpWVtel6cI1zSUjh" version="18.1.2" type="github" pages="6">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="snKvugUWJHtGD5U-AeBJ-4" value="What ethical rules should a data scientist follow?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="210" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xoGOr7hVCmAUds8dBjUI-1" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="xoGOr7hVCmAUds8dBjUI-1" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="110" y="420" width="340" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xoGOr7hVCmAUds8dBjUI-2" value="wellbeing: stress, overwhelmed" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;" vertex="1" parent="1">
