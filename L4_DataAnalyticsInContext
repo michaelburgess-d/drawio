@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:57:18.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Exme9O5K2DVOmino3UHA" version="18.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:58:04.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9gHRX19SaiME7JSnULoL" version="18.1.2" type="github" pages="4">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,6 +217,9 @@
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-16" value="Does the failure matter?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
           <mxGeometry x="849" y="-180" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P44CGy4t55VgAJIINM75-17" value="theory of animal consciousss: we are only consciously aware of failure" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#dae8fc;size=0.25;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-10" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
