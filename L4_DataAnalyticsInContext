@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:39:49.467Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6xxA06aZd17_GSMafuEG" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:41:04.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lxqsHn7tSwjlNMiu6AeY" version="18.1.2" type="github" pages="3">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
-    <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ro9SF9DUzOtBZ9On3y5G-1" value="Data Analytics in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="370" height="260" as="geometry" />
+        <mxCell id="Ro9SF9DUzOtBZ9On3y5G-1" value="Data Analytics in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="-10" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="snKvugUWJHtGD5U-AeBJ-1" value="Lesson Plan: Key Activities" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="410" height="180" as="geometry" />
@@ -33,7 +33,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6Ravb52F1F0eXnkNeKjm-1" value="Data Analytics &lt;br&gt;in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="6Ravb52F1F0eXnkNeKjm-1" value="Data Analytics &lt;br&gt;in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="340" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wKNcxGAlhxTjBvbQEqaf-1" value="Maps &amp;amp; &lt;br style=&quot;font-size: 15px;&quot;&gt;Data Modelling" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
@@ -162,7 +162,7 @@
         <mxCell id="TlomuUcM6uuMm3HMJHbU-26" value="photo" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
           <mxGeometry x="-320" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h2b7o7wICsrDAqlm6xXv-1" value="What is Data?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="h2b7o7wICsrDAqlm6xXv-1" value="What is Data?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="520" width="240" height="200" as="geometry" />
         </mxCell>
       </root>
