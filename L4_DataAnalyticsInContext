@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:38:06.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="teq8gpMg6DKSKYfmu0CH" version="18.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:39:16.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="PpV0r1YyG5j2yk29z_dT" version="18.1.2" type="github" pages="11">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -677,7 +677,7 @@
           <mxGeometry x="410" width="453.33" height="290" as="geometry" />
         </mxCell>
         <mxCell id="tD_eulA8o-nBQQblup00-1" value="&lt;div&gt;&lt;font face=&quot;Source Sans Pro, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;6 weeks from launch day to set up mentor call&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Source Sans Pro, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Feel free to reach out.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=35;fontFamily=Barlow Condensed;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="360" height="120" as="geometry" />
+          <mxGeometry x="70" y="200" width="360" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
