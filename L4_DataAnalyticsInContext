@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:21:44.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="EE5u-Mg7JhGFd1woR5rT" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:23:30.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jlvRJ1L8aySeVqRgtKVf" version="18.1.2" type="github" pages="3">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,11 +92,26 @@
         <mxCell id="TlomuUcM6uuMm3HMJHbU-2" value="why do we care?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="460" y="90" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-3" value="data alone isnt informative" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-3" value="data alone isnt informative" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-4" value="action-guiding reasons" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-4" value="(wisely) action-guiding reasons" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-5" value="Knowledge, Information" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="629" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-6" value="what is data?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-8" value="facts" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-9" value="measures" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-10" value="objective" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
