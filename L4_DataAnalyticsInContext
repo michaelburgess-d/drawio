@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:09:05.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8rkKgV8L-xH1UH9mVbuz" version="18.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:11:59.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bNn_e_nodh3hzQsuMN0z" version="18.1.2" type="github" pages="6">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uFDH0KHb1AJKROlASQXm" name="ReviewData">
-    <mxGraphModel dx="2192" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
           <mxGeometry x="380" y="150" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="TlomuUcM6uuMm3HMJHbU-2" value="why do we care?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="190" height="80" as="geometry" />
+          <mxGeometry x="140" y="370" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TlomuUcM6uuMm3HMJHbU-3" value="&lt;b&gt;data &lt;/b&gt;&lt;br&gt;alone isnt informative" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
           <mxGeometry x="629" y="350" width="120" height="60" as="geometry" />
@@ -166,7 +166,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h2b7o7wICsrDAqlm6xXv-1" value="What is(n&#39;t) Data?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1" y="370" width="240" height="200" as="geometry" />
+          <mxGeometry x="50" y="400" width="240" height="200" as="geometry" />
         </mxCell>
         <mxCell id="l2ezyPWDC0YZk-xtL9-5-1" value="Can something be both &lt;br style=&quot;font-size: 20px;&quot;&gt;objective &amp;amp; unreliable?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-90" y="165" width="220" height="155" as="geometry" />
@@ -205,111 +205,81 @@
     </mxGraphModel>
   </diagram>
   <diagram id="M86sjTd73Iszx8MzBSev" name="HowCanDataAnalysisGoWrong?">
-    <mxGraphModel dx="1950" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2730" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P44CGy4t55VgAJIINM75-1" value="How can data analysis go wrong?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="-150" width="250" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.402;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-2" target="P44CGy4t55VgAJIINM75-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-2" target="P44CGy4t55VgAJIINM75-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="470" y="210" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-2" value="Are you asking the right question?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-4" target="P44CGy4t55VgAJIINM75-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="360" y="380" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-4" value="Do you have a plan?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="810" y="370" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-5" target="P44CGy4t55VgAJIINM75-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-5" value="Are your techniques appropriate?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="980" y="-10" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-6" target="P44CGy4t55VgAJIINM75-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="940" y="45" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-6" value="Do you have the right background knowledge?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="490" width="160" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-7" target="P44CGy4t55VgAJIINM75-25">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1180" y="460" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-7" value="Are you following law &amp;amp; governance?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1340" y="80" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-8" target="P44CGy4t55VgAJIINM75-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-8" value="Are you being ethical?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="240" width="160" height="160" as="geometry" />
+          <mxGeometry x="1081" y="290" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-9" value="Do you have the right problem in mind?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="680" y="10" width="160" height="160" as="geometry" />
+          <mxGeometry x="290" y="190" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-3" value="Q. What causes a probem?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="20" width="160" height="160" as="geometry" />
+          <mxGeometry x="90" y="330" width="160" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-11" value="what preceeds all problems?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-40" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-13" value="FAILURE!!!!! (judgement)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="370" y="-110" width="210" height="80" as="geometry" />
+        <mxCell id="P44CGy4t55VgAJIINM75-11" value="what preceeds all problems?&lt;br&gt;A &lt;b&gt;FAILURE&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-14" value="What system is failing?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="689" y="-50" width="220" height="80" as="geometry" />
+          <mxGeometry x="290" y="170" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-15" value="What does success/fail mean?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-110" width="220" height="80" as="geometry" />
+          <mxGeometry x="371" y="110" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-16" value="Does the failure matter?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="849" y="-180" width="220" height="80" as="geometry" />
+          <mxGeometry x="450" y="40" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-17" value="theory of animal consciousss: we are only consciously aware of failure" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#dae8fc;size=0.25;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="10" y="-320" width="260" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-18" value="things just working = &lt;br&gt;not consciously aware" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#dae8fc;size=0.25;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-220" width="260" height="80" as="geometry" />
+        <mxCell id="P44CGy4t55VgAJIINM75-17" value="theory of animal consciousness: &lt;br&gt;we are only consciously aware of failure&lt;br&gt;&lt;br&gt;things just working =&lt;br&gt;not consciously aware" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#dae8fc;size=0.25;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-21" value="Bias" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="1190" y="270" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-23" value="Data cleaning&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="995" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-25" value="Privacy &amp;amp; Control" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="170" width="120" height="80" as="geometry" />
+          <mxGeometry x="1390" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-27" value="What&#39;s your (strategic) objective?" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="970" y="520" width="170" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="P44CGy4t55VgAJIINM75-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-29" target="P44CGy4t55VgAJIINM75-27">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="880" y="475" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-29" value="What&#39;s your technical&amp;nbsp; objective? (eg., mean())" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="680" y="560" width="170" height="130" as="geometry" />
+          <mxGeometry x="873" y="690" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-32" value="are you resolving the same problem?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="597" y="520" width="230" height="80" as="geometry" />
+          <mxGeometry x="790" y="650" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="P44CGy4t55VgAJIINM75-33" target="P44CGy4t55VgAJIINM75-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P44CGy4t55VgAJIINM75-33" value="Context for Historical Data" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1220" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yPEd6P948OICjEy7vcCp-1" value="Are you drawing the most appropriate conclusions?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="-340" width="210" height="210" as="geometry" />
+          <mxGeometry x="371" y="570" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="yPEd6P948OICjEy7vcCp-2" value="Are you communicating the results well (in line with strategic objectives)?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="210" height="210" as="geometry" />
+          <mxGeometry x="591" y="430" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
