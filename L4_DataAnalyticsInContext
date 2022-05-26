@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T09:50:05.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SnL-qwx3feu2uVS6g0qU" version="18.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-05-26T09:58:59.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8UOGwtHDM0PXcygPr7mW" version="18.1.2" type="github" pages="6">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,63 +311,69 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vA1qHDZTh6KXAkB-unU2" name="Focus: Accountability &amp; Bias &amp; ...">
-    <mxGraphModel dx="2192" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2777" dy="2206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-6SI1d-G83hp_6s8Qdcl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.16;exitY=0.55;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="-6SI1d-G83hp_6s8Qdcl-1" target="-6SI1d-G83hp_6s8Qdcl-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-1" value="What is Accountability?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="-6SI1d-G83hp_6s8Qdcl-1" target="-6SI1d-G83hp_6s8Qdcl-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-1" value="What is Accountability?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;fontStyle=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="320" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-2" value="What is it?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="780" y="130" width="120" height="80" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-2" value="What is it?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-3" value="Why do we care?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="780" y="240" width="120" height="80" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-3" value="Why do we care?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="707" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-6SI1d-G83hp_6s8Qdcl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="-6SI1d-G83hp_6s8Qdcl-4" target="-6SI1d-G83hp_6s8Qdcl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-4" value="Responsibility" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="360" y="310" width="80" height="80" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-4" value="Responsibility" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="510" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-5" value="Person who &lt;br&gt;is held to account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="420" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-5" value="Person who &lt;br&gt;is held to account" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-9" value="meaning" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="540" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-10" value="suppose&lt;b&gt; I ask a person to account for themselves&lt;/b&gt;?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="350" y="-130" width="170" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-10" value="suppose&lt;b&gt; I ask a person to account for themselves&lt;/b&gt;?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="-50" width="170" height="120" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-11" value="Managing:&lt;br&gt;command, judging" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-180" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-11" value="Managing:&lt;br&gt;command, judging" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-12" value="Consequences" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-12" value="Consequences" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="330" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-13" value="Provide an explanation/justification,&lt;br&gt;ie., an account of your behaviour" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="70" y="70" width="210" height="180" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-13" value="Provide an explanation/justification,&lt;br&gt;ie., an account of your behaviour" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="10" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-15" value="what are &lt;b&gt;you&lt;/b&gt;&amp;nbsp;going to do?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="180" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-15" value="what are &lt;b&gt;they&amp;nbsp;&lt;/b&gt;going to do?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="354" width="165" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-16" value="holding a person to account requries them to provide a reasonable explanation of their behaviour/actions, etc." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="810" y="400" width="260" height="180" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-16" value="holding a person to account requries them to provide a reasonable explanation of their behaviour/actions, etc." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="880" y="-50" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-17" value="&amp;amp; then some concequences" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="810" y="600" width="260" height="180" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-17" value="&amp;amp; then some consequences?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="880" y="150" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-18" value="What problems are there in data science, &lt;br&gt;with holding any &lt;i&gt;decision-making process&lt;/i&gt;&amp;nbsp;&lt;b&gt;to account&lt;/b&gt;?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="580" height="290" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-18" value="What problems are there &lt;br&gt;in data science, &lt;br&gt;with holding &lt;br&gt;any &lt;i&gt;decision-making process&lt;/i&gt;&amp;nbsp;&lt;br&gt;&lt;b&gt;to account&lt;/b&gt;?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="310" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-19" value="Who&#39;s the person making the decision?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="20" y="440" width="150" height="150" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-19" value="Who&#39;s the person making the decision?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="420" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-6SI1d-G83hp_6s8Qdcl-20" value="Eg., there is no person.&amp;nbsp;&lt;br&gt;&lt;br&gt;Eg., AI says &lt;br&gt;NO BANK LOAN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fontColor=#000000;fillColor=#FFFF33;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="600" width="250" height="250" as="geometry" />
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-20" value="Eg., there is no person.&amp;nbsp;&lt;br&gt;&lt;br&gt;Eg., AI says &lt;br&gt;NO BANK LOAN" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="610" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-24" value="&lt;ul style=&quot;box-sizing: border-box; list-style-position: initial; list-style-image: initial; padding: 0px 0px 0px 1.5em; margin: 0px 0px 1em; font-family: Verdana, Helvetica, Arial, sans-serif; font-size: 15.2px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;li style=&quot;box-sizing: border-box;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontFamily=Barlow Condensed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="325" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6SI1d-G83hp_6s8Qdcl-29" value="The UK GDPR sets out seven key principles:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Lawfulness, fairness and transparency&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Purpose limitation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Data minimisation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Accuracy&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Storage limitation&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Integrity and confidentiality (security)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Accountability&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FFFF;strokeColor=none;fontStyle=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="340" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
