@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T10:50:05.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mB7nQQ3xcPtZZuhO_icW" version="18.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-05-26T10:58:31.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="b6oL_71m6HtItJhXiEga" version="18.1.2" type="github" pages="9">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -407,9 +407,6 @@
         <mxCell id="ejq5SGU3LafO_m9mfMrl-12" value="Does it make sense to attribute ethical reasoning &lt;i&gt;to&lt;/i&gt; organizations?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="800" y="120" width="250" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-14" target="ejq5SGU3LafO_m9mfMrl-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-14" value="Seems like: charities are ethical?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1078" y="210" width="240" height="90" as="geometry" />
         </mxCell>
@@ -417,12 +414,12 @@
           <mxGeometry x="110" y="-10" width="303" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-16" value="If so, when are organizations ethical?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="920" y="480" width="250" height="90" as="geometry" />
+          <mxGeometry x="1220" y="620" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-17" value="would we say a car is ethical?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="890" y="50" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-20" value="Amazon is unethical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-20" value="Seems like: Amazon is unethical?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1078" y="310" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.572;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;" edge="1" parent="1" source="ejq5SGU3LafO_m9mfMrl-22" target="ejq5SGU3LafO_m9mfMrl-27">
@@ -436,14 +433,11 @@
         <mxCell id="ejq5SGU3LafO_m9mfMrl-22" value="but it doesnt matter.." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="805" y="340" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-24" value="is a collection of people a person?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="1369" y="10" width="210" height="80" as="geometry" />
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-24" value="is a collection of people a person?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="35" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-25" value="problem: free speech rights to companies, well if so, then they can spend as much as they like on political speech" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
+        <mxCell id="ejq5SGU3LafO_m9mfMrl-25" value="problem: free speech rights to companies, well if so, then they can spend as much as they like on political speech" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1369" y="110" width="210" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ejq5SGU3LafO_m9mfMrl-26" value="may be not?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fontColor=#000000;fillColor=#33FF33;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ejq5SGU3LafO_m9mfMrl-27" value="does ethical &lt;i&gt;apply&lt;/i&gt;&amp;nbsp;to an organization?" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1210" y="500" width="200" height="110" as="geometry" />
@@ -498,6 +492,9 @@
         </mxCell>
         <mxCell id="CUuiDmSsyVp_1LUY52Ht-1" value="&lt;br&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;A framework of rules to guide people to make decisions that are &lt;/span&gt;&lt;b&gt;beneficial&lt;/b&gt;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;(to the most people).&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;Codifying and justifying morals so that people are treated &lt;/span&gt;&lt;b&gt;fairly&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px;&quot;&gt;(in a way that they are happy with).&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;fillColor=#33FFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="770" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Mgfs-K9JlWEdrGtuVvYS-1" value="are we just making this judgement ?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="280" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
