@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:15:05.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="s1whdBGEbkpuVInt7dmh" version="18.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:16:16.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="e-qp7573c_4liTH32sly" version="18.1.2" type="github" pages="10">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="2730" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -8,9 +8,9 @@
           <mxGeometry x="40" y="16" width="280" height="210" as="geometry" />
         </mxCell>
         <mxCell id="snKvugUWJHtGD5U-AeBJ-1" value="Lesson Plan: Key Activities" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="390" y="66" width="410" height="330" as="geometry" />
+          <mxGeometry x="340" y="60" width="410" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="C6INH44M6Or_cuIJ4-tZ-4" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="C6INH44M6Or_cuIJ4-tZ-4" value="Introductions: Who am I? Who are you?" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="30" width="410" height="30" as="geometry" />
         </mxCell>
         <mxCell id="k97cmgQWERiRWwffg8zV-12" value="Review Prelearning: What have we learned so far?" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
@@ -213,7 +213,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="M86sjTd73Iszx8MzBSev" name="HowCanDataAnalysisGoWrong?">
+  <diagram id="M86sjTd73Iszx8MzBSev" name="Q.HowCanDataAnalysisGoWrong?">
     <mxGraphModel dx="2730" dy="1452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
