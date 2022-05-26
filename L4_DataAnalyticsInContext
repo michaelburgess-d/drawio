@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:18:24.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hPXLGlNjX02PUT_QWinR" version="18.1.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:21:00.864Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OSmD-JCY0B7B13wJaQoL" version="18.1.2" type="github" pages="11">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -540,13 +540,30 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="onsnsR_igFUiO6nPPees-1" value="How can data science go wrong?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="50" width="420" height="200" as="geometry" />
+          <mxGeometry x="60" y="40" width="420" height="200" as="geometry" />
         </mxCell>
         <mxCell id="onsnsR_igFUiO6nPPees-2" value="What principles should govern data science?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=21;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1;fillColor=#FFFF33;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="460" width="490" height="200" as="geometry" />
+          <mxGeometry x="90" y="520" width="490" height="200" as="geometry" />
         </mxCell>
         <mxCell id="wX2W0H92oRkkMjgqdyea-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://presley-assets.decoded.com/ddb23647-d21c-4edc-842d-8a13167b83bd_data_analytics_lifecycle.png;" vertex="1" parent="1">
           <mxGeometry x="600" y="24" width="520" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="gaMI2rPBGpVP7ORlIyXk-1" value="&lt;ul style=&quot;color: rgb(0, 0, 0); font-size: 16px; list-style-type: disc; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Relevant stakeholders are often ignored/neglected&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Cleaning &amp;amp; transforming data always involves some data loss&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;The choice of modelling techniques can cause issues (e.g. black-box options)&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;The training of models and the data selected can result in biased results&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;&#39;Successful&#39; is a fascinating term: to who? Measured how?&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Legal requirements around anonymisation/preservation of records&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Barlow Condensed;fontColor=#000000;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
+          <mxGeometry x="590" y="440" width="550" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cUbeRSBSOeG19Lp2vDt2" name="NextSteps">
+    <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_tNr0OyyjiRqm-QIhlev-1" value="&lt;ol style=&quot;color: rgb(0, 0, 0); font-size: 16px; font-family: &amp;quot;Source Sans Pro&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the workshop reflection activity&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the online practice&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Schedule a mentor call&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete any outstanding projects/assessments&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=35;fontFamily=Barlow Condensed;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="550" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn2iozHBZsoqECPt-nLM-1" value="Data Analytics &lt;br&gt;in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=35;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="620" y="30" width="453.33" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
