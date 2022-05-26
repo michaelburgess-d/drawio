@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:21:42.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="C_ytL39Zo6JOTiqMZROp" version="18.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:22:21.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="E34kFoSh4g-6j3yDuM4z" version="18.1.2" type="github" pages="11">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -555,15 +555,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cUbeRSBSOeG19Lp2vDt2" name="NextSteps">
-    <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1365" dy="1553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_tNr0OyyjiRqm-QIhlev-1" value="&lt;ol style=&quot;color: rgb(0, 0, 0); font-size: 16px; font-family: &amp;quot;Source Sans Pro&amp;quot;, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the workshop reflection activity&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the online practice&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Schedule a mentor call&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete any outstanding projects/assessments&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=35;fontFamily=Barlow Condensed;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="_tNr0OyyjiRqm-QIhlev-1" value="&lt;ol style=&quot;color: rgb(0, 0, 0); font-size: 16px; font-family: &amp;quot;Source Sans Pro&amp;quot;, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;font-style: normal; color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the workshop reflection activity&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;font-style: normal; color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Complete the online practice&lt;/li&gt;&lt;li style=&quot;font-style: normal; color: black; font-size: 16px; line-height: 1.4;&quot;&gt;Schedule a mentor call&lt;/li&gt;&lt;li style=&quot;color: black; font-size: 16px; line-height: 1.4;&quot;&gt;&lt;i&gt;Complete any outstanding projects/assessments&lt;/i&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;fontSize=35;fontFamily=Barlow Condensed;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="50" y="60" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Jn2iozHBZsoqECPt-nLM-1" value="Data Analytics &lt;br&gt;in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=35;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="620" y="30" width="453.33" height="290" as="geometry" />
+          <mxGeometry x="480" y="-10" width="453.33" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
