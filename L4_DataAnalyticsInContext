@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T11:25:39.571Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aTk_x5Aq3JGlex11UVUZ" version="18.1.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-05-26T11:27:01.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iB4mfmhTaWUO6yH_VXdJ" version="18.1.2" type="github" pages="11">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1950" dy="1037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -553,6 +553,15 @@
         </mxCell>
         <mxCell id="25RtpjqeCwj4Zm4OFsk--1" value="Eg., A COVID case.&lt;br&gt;&lt;br&gt;During COVID the government used an &quot;&lt;i&gt;&lt;u&gt;algorithm&lt;/u&gt;&lt;/i&gt;&quot; to determine a grade.&lt;br&gt;&lt;br&gt;This algorithm knocked a person down three grades, despite A* performance -- due to &lt;b&gt;POST CODE.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Using teacher predictions, A* -&amp;gt; D -&amp;gt; A*" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="37" y="13" width="240" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--2" value="measurements&amp;nbsp;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="405" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--3" value="mean(), &lt;br&gt;median(),&amp;nbsp;&lt;br&gt;mode()" style="triangle;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="163" y="370" width="90" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="25RtpjqeCwj4Zm4OFsk--5" value="decision based &lt;br&gt;on a mean()" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=16;fontColor=#000000;strokeColor=default;fillColor=#33FFFF;" vertex="1" parent="1">
+          <mxGeometry x="253" y="425" width="147" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
