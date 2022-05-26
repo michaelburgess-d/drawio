@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:35:26.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Vc_yoAwysFKEc1OaLenW" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:36:21.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SyWrGW3yfknIDDTtUbYH" version="18.1.2" type="github" pages="3">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
           <mxGeometry x="380" y="150" width="170" height="260" as="geometry" />
         </mxCell>
         <mxCell id="TlomuUcM6uuMm3HMJHbU-2" value="why do we care?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="460" y="90" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="40" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TlomuUcM6uuMm3HMJHbU-3" value="data alone isnt informative" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
@@ -138,20 +138,23 @@
         <mxCell id="TlomuUcM6uuMm3HMJHbU-16" value="&lt;b&gt;unreliable&lt;/b&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-220" y="410" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-17" value="process" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="530" width="120" height="80" as="geometry" />
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-17" value="process" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-18" value="judgement" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="60" y="530" width="120" height="80" as="geometry" />
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-18" value="judgement" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="620" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-19" value="the cat is on the mat" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="170" y="530" width="210" height="80" as="geometry" />
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-19" value="the cat is on the mat" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="10" y="620" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TlomuUcM6uuMm3HMJHbU-20" value="feed the cat" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="460" y="530" width="210" height="80" as="geometry" />
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-20" value="feed the cat" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="620" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TlomuUcM6uuMm3HMJHbU-22" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;broken lens, &lt;br&gt;b&amp;amp;w, odd angle, &lt;br&gt;camera&lt;/span&gt;&lt;br&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-290" y="205" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TlomuUcM6uuMm3HMJHbU-26" value="photo" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="620" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
