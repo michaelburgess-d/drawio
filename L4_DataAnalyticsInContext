@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T08:38:04.922Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n7G3jb4XH1rBBB6rv6jU" version="18.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-26T08:39:04.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="gDgZEEaf3dUC4aJNWGw6" version="18.1.2" type="github" pages="3">
   <diagram id="9ndetD5822pUDljGVD3C" name="Intro">
     <mxGraphModel dx="1365" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ro9SF9DUzOtBZ9On3y5G-1" value="Data Analytics in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="300" y="340" width="240" height="200" as="geometry" />
+        <mxCell id="Ro9SF9DUzOtBZ9On3y5G-1" value="Data Analytics in Context" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="370" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="snKvugUWJHtGD5U-AeBJ-1" value="Lesson Plan: Key Activities" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="snKvugUWJHtGD5U-AeBJ-1" value="Lesson Plan: Key Activities" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
           <mxGeometry x="390" y="40" width="410" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="k97cmgQWERiRWwffg8zV-12" value="Review Prelearning: What have we learned so far?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="k97cmgQWERiRWwffg8zV-12" value="Review Prelearning: What have we learned so far?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="30" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="snKvugUWJHtGD5U-AeBJ-2" value="How can data analysis go wrong?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="snKvugUWJHtGD5U-AeBJ-2" value="How can data analysis go wrong?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="60" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="k97cmgQWERiRWwffg8zV-11" value="What&#39;s your definition of ethics?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="k97cmgQWERiRWwffg8zV-11" value="What&#39;s your definition of ethics?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="90" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="snKvugUWJHtGD5U-AeBJ-3" value="What&#39;s your interpretation of these ethical case studies?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="snKvugUWJHtGD5U-AeBJ-3" value="What&#39;s your interpretation of these ethical case studies?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="120" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="snKvugUWJHtGD5U-AeBJ-4" value="What ethical rules should a data scientist follow?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=14;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
+        <mxCell id="snKvugUWJHtGD5U-AeBJ-4" value="What ethical rules should a data scientist follow?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontSize=16;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="snKvugUWJHtGD5U-AeBJ-1">
           <mxGeometry y="150" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
