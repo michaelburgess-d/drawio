@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T14:24:14.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YxSVffuBeGGc6q9mQmMD" version="18.2.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-01T14:29:44.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DMlheJIn-ByISnTHzaO4" version="18.2.0" type="github" pages="13">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1468" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -475,17 +475,68 @@
         <mxCell id="hfOICmReSWq1Ix4JwTkc-2" value="A1&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hfOICmReSWq1Ix4JwTkc-3" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-3" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="280" y="100" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hfOICmReSWq1Ix4JwTkc-4" value="A1&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="760" y="20" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="hfOICmReSWq1Ix4JwTkc-5" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-5" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="910" y="20" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hfOICmReSWq1Ix4JwTkc-6" value="with no field, how do we know which rows to pair up?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-7" value="(alice, 19)&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-8" value="(pen, 10)&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="280" y="290" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-9" value="A1&lt;br&gt;A1&lt;br&gt;A1&lt;br&gt;A1" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-10" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="500" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-11" value="A2&lt;br&gt;A2&lt;br&gt;A2&lt;br&gt;..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="190" y="650" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-12" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="340" y="650" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-13" value="CARTESIAN JOIN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="50" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-14" value="A1 (id=1)&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-15" value="B1 (id=1)&lt;br&gt;B2&lt;br&gt;&lt;b&gt;NULL&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="730" y="580" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-16" value="INNER JOIN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="665" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-17" value="A1 (id=1)&lt;br&gt;A2" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="575" y="330" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-18" value="B1 (id=1)&lt;br&gt;B2" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="725" y="330" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-19" value="What happens when we JOIN, `ON` id?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="850" y="210" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-20" value="LEFT JOIN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="665" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-21" value="RIGHT JOIN" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1049" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-22" value="A1 (id=1)&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;NULL" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="920" y="570" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-23" value="B1 (id=1)&lt;br&gt;B2&lt;br&gt;B3&lt;br&gt;..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="570" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
