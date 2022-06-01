@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:51:52.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zcRDqbkq2inrgYriDrdG" version="18.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-01T09:06:09.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xSfxY1qmJFW8QYCdXdV1" version="18.2.0" type="github" pages="9">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
-    <mxGraphModel dx="1548" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-2" value="Demo: Using SQL &amp; SQLite in Jupyter (10 min)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="120" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYAciLbRC5Rm4hqzVgsS-9" value=" BREAK (10 min) -- 1 HOUR MARK" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-9" value=" BREAK (15 min) -- 1 HOUR MARK" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="150" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWfBdDnu5YcHsyJutp1g-4" value="Discussion: How do you query data with SQL? (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
@@ -92,6 +92,20 @@
         </mxCell>
         <mxCell id="dR7VwP0kOZyc0g5fi__p-4" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="150" y="760" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VzIj2WTxbRVX-RcwCeds" name="Page-9">
+    <mxGraphModel dx="989" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MktvYkVu1WU_Q0D8AzpN-1" value="BREAK" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="430" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MktvYkVu1WU_Q0D8AzpN-2" value="RAISE HAND" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#FFFF33;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="384" width="260" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
