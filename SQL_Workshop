@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T10:09:35.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="B28hE4oyyGwyOpWWvTZw" version="18.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-01T10:10:21.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Q7vYDcrEx_U-4ydyzpBs" version="18.2.0" type="github" pages="9">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1079" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -389,7 +389,7 @@
           <mxGeometry x="880" y="1340" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uurNDlncoVA6cQEjWhhQ-22" value="OUTER JOIN" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1420" width="380" height="150" as="geometry" />
+          <mxGeometry x="90" y="1350" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
