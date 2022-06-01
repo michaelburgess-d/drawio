@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:31:05.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jqXOyjphKp_xbccFWN_x" version="18.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:37:49.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lZCbQRYjGjrDPmXgIsj2" version="18.2.0" type="github" pages="8">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1548" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -102,14 +102,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KnVchs87QeQyNoE7treW" name="IntroSQL&amp;SQLite">
-    <mxGraphModel dx="3362" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2717" dy="1645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8km4yo_TvlCGSJwscy5d-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-670" y="470" width="395" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="-kd-qLVo8Qf-XDFVLDv7-1" value="Relational Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="-kd-qLVo8Qf-XDFVLDv7-1" value="Relational Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="-kd-qLVo8Qf-XDFVLDv7-2" value="Relation = Table" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
@@ -216,6 +216,45 @@
         </mxCell>
         <mxCell id="vBwOCmOoMPgOotdSWxI--12" value="Matrices..." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-1120" y="120" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-2" value="RDBMS" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-696" y="940" width="395" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-4" value="Oracle" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-355" y="880" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-5" value="Microsoft (MSSQL)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1040" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-6" value="Sequel, See Que Ell" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1000" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-7" value="What does RDBMS stand-for?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="910" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-8" value="Postgres" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" edge="1" parent="1" source="Uu6-kL4KjdxUeRXzhRIp-9" target="Uu6-kL4KjdxUeRXzhRIp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-9" value="Ingress" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-11" value="SQLite" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-12" value="Relational (tabular)&lt;br&gt;Database (store of structured, semi-structured data)&lt;br&gt;Management System (program)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="1240" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-13" value="SQLite is a library &lt;br&gt;which allows you to create a program which manages a database&lt;br&gt;&lt;br&gt;SQLite provides a RDB without having to install a separate *system* of programs" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1220" width="280" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-14" value="Probably, the most popular DB in the world" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-542.5" y="1370" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Uu6-kL4KjdxUeRXzhRIp-15" value="on every mobile, router, laptop, ...&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="1430" width="140" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
