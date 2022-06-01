@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:58:44.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="58FbxVNQs28Q5A6hsTga" version="18.2.0" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-06-01T13:00:46.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XJyJ7O_zxx6jI-3q2fkr" version="18.2.0" type="github" pages="13">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
           <mxGeometry x="650" y="360" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="-BS51VzpSWeigJSjg-cs-1" value="SQLite is a library &lt;br&gt;which allows you to create a program which manages a database&lt;br&gt;&lt;br&gt;&lt;b&gt;SQLite provides a RDB without having to install a separate *system* of programs&lt;/b&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="270" y="440" width="280" height="285" as="geometry" />
+          <mxGeometry x="320" y="430" width="230" height="285" as="geometry" />
         </mxCell>
         <mxCell id="-BS51VzpSWeigJSjg-cs-4" value="RDMBS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="880" y="385" width="60" height="80" as="geometry" />
@@ -216,6 +216,9 @@
         </mxCell>
         <mxCell id="-BS51VzpSWeigJSjg-cs-5" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.laptop;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="915" y="580" width="116.67" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-BS51VzpSWeigJSjg-cs-7" value="Why is SQLite the most popular?&lt;br&gt;&lt;br&gt;DB is &quot;within&quot; your app&lt;br&gt;Mobiles, laptops, routers, IoT, Windows, Linux, ..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="520" width="250" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
