@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T13:13:54.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n1xUlYLjP0gE5Y8noqfR" version="18.2.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-06-01T13:14:12.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ni8GLZyuLcbS600Ry3F4" version="18.2.0" type="github" pages="15">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m_B5Vu0yvhKzn0B16nwp" name="ERD">
-    <mxGraphModel dx="1040" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -331,6 +331,20 @@
         </mxCell>
         <mxCell id="kjc9YzFir8AoRJG0c_mh-6" value="How many actors are there per film?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="130" y="980" width="380" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VzIj2WTxbRVX-RcwCeds" name="BREAK">
+    <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MktvYkVu1WU_Q0D8AzpN-1" value="BREAK (15 min)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="180" y="60" width="430" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MktvYkVu1WU_Q0D8AzpN-2" value="RAISE HAND" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#FFFF33;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="384" width="260" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -494,20 +508,6 @@
         </mxCell>
         <mxCell id="lSPiZahKMR50CoIS5Kt4-24" value="What is SQL?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="112.5" y="10" width="395" height="290" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="VzIj2WTxbRVX-RcwCeds" name="BREAK">
-    <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="MktvYkVu1WU_Q0D8AzpN-1" value="BREAK (15 min)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="180" y="60" width="430" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="MktvYkVu1WU_Q0D8AzpN-2" value="RAISE HAND" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#FFFF33;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="380" y="384" width="260" height="76" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
