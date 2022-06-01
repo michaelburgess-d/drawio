@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T11:34:25.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7QjseKXIrspr7YqfsteH" version="18.2.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-01T12:37:49.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_p29yIv2uFgFwLmrYFgY" version="18.2.0" type="github" pages="11">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
-    <mxGraphModel dx="1880" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-8" value="Next Steps, Review &amp; Finish" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="480" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYAciLbRC5Rm4hqzVgsS-7" value="Individual Activity: Notebook III (20 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-7" value="Individual Activity: Notebook III (10 min + TAKE-AWAY)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="510" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VWfBdDnu5YcHsyJutp1g-5" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
@@ -64,27 +64,27 @@
         <mxCell id="VWfBdDnu5YcHsyJutp1g-6" value="Safeguarding" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="445" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UUQTI9xCpZHFy0er7Z2--1" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UUQTI9xCpZHFy0er7Z2--1" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="590" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UUQTI9xCpZHFy0er7Z2--2" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UUQTI9xCpZHFy0er7Z2--2" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="320" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UUQTI9xCpZHFy0er7Z2--3" value="Values &amp;amp; Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="UUQTI9xCpZHFy0er7Z2--3" value="Values &amp;amp; Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="840" y="382" width="270" height="60" as="geometry" />
         </mxCell>
         <UserObject label="https://github.com/michaelburgess-d/decoded-public-code" link="https://github.com/michaelburgess-d/decoded-public-code" id="dR7VwP0kOZyc0g5fi__p-1">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" vertex="1" parent="1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=28;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontStyle=1" parent="1" vertex="1">
             <mxGeometry x="490" y="740" width="650" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dR7VwP0kOZyc0g5fi__p-2" value="Wellbeing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-2" value="Wellbeing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="890" y="510" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dR7VwP0kOZyc0g5fi__p-3" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-3" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="690" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dR7VwP0kOZyc0g5fi__p-4" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-4" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="160" y="760" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
