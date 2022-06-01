@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:57:57.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iXMzk0fIVa0AFZsdgV3Z" version="18.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:01:12.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BEup3p9-kODm4CfkAwxX" version="18.2.0" type="github" pages="8">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
-    <mxGraphModel dx="1677" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1548" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,8 +71,8 @@
           <mxGeometry x="840" y="445" width="270" height="60" as="geometry" />
         </mxCell>
         <UserObject label="https://codeload.github.com/DecodedCo/data-academy-commercial/zip/refs/heads/feature/sql?token=AZAKVFRWXQDUZCVVYUXACATCS4GL4" link="https://codeload.github.com/DecodedCo/data-academy-commercial/zip/refs/heads/feature/sql?token=AZAKVFRWXQDUZCVVYUXACATCS4GL4" id="qQZMMbyOK7yo4raQjr0h-3">
-          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Barlow Condensed;" parent="1" vertex="1">
-            <mxGeometry x="800" y="600" width="360" height="170" as="geometry" />
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" parent="1" vertex="1">
+            <mxGeometry x="580" y="710" width="510" height="110" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="UUQTI9xCpZHFy0er7Z2--1" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
@@ -84,6 +84,11 @@
         <mxCell id="UUQTI9xCpZHFy0er7Z2--3" value="Values &amp;amp; Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="382" width="270" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="https://github.com/michaelburgess-d/decoded-public-code" link="https://github.com/michaelburgess-d/decoded-public-code" id="dR7VwP0kOZyc0g5fi__p-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;" vertex="1" parent="1">
+            <mxGeometry x="580" y="660" width="550" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
