@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:46:15.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RrV3TDwuSf9Nqr9BwyZm" version="18.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-01T12:46:43.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n8IvCukH5Nnxh_wSR3UO" version="18.2.0" type="github" pages="12">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           <mxGeometry x="160" y="690" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dR7VwP0kOZyc0g5fi__p-4" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="160" y="760" width="270" height="60" as="geometry" />
+          <mxGeometry x="160" y="753" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
