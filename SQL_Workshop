@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T09:14:31.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="e1PwA0d-XgPnBfCWVefd" version="18.2.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-06-01T09:43:17.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1tEKJW5wW7g2HOZTJRIX" version="18.2.0" type="github" pages="9">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1413" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="VWfBdDnu5YcHsyJutp1g-4" value="Discussion: How do you query data with SQL? (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="150" width="550" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYAciLbRC5Rm4hqzVgsS-9" value=" BREAK (15 min) -- 1 HOUR MARK" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-9" value=" BREAK &amp; COURSEWARE SETUP (15 min) -- 1 HOUR MARK" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="180" width="550" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-14" value="Discussion: What are ERDs? (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
@@ -283,7 +283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4EGaTygKGwWpqYiw7jq8" name="ReviewERD">
-    <mxGraphModel dx="989" dy="2329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2473" dy="3342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
