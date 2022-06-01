@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T07:07:02.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n3u4EGb0fEFITbFRi2qh" version="18.1.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-06-01T07:09:23.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="L6SRowUkGX1EOH_072di" version="18.1.3" type="github" pages="7">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1399" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -72,38 +72,56 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8km4yo_TvlCGSJwscy5d-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="9JOhqPGoETHmBzDQl8ip" name="ReviewSQL">
-    <mxGraphModel dx="796" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Mbou6TcnfOYQo-h_NNQj-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="4EGaTygKGwWpqYiw7jq8" name="ReviewERD">
-    <mxGraphModel dx="466" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="1499" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5x7i3vrT7XUVTo0DCBQB-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.pinimg.com/originals/7b/a1/63/7ba163f2910c65834c1126b2b9322f45.png;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-640" width="520" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="1e_w6v3MeilqJ-AVTUAU-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="DO7YZBmzrQrsGnP8d-27" name="DiscussJOIN">
-    <mxGraphModel dx="1225" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2152" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AtshxGv8L-iLn9IBrKwv-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Z0sigr8FOcidyf3ufHGJ" name="DiscussSubQ">
-    <mxGraphModel dx="796" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1399" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="avadI2xUHktiClJcTOKo-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -112,6 +130,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="djyEZPrjEJFE-ndDvfhN-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
