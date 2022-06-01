@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T11:24:44.137Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="P3eiYXRTWmPtfB6Ts13p" version="18.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-01T11:25:24.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9GlafJRTmE0WbLKUKCoK" version="18.2.0" type="github" pages="10">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1880" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -197,11 +197,8 @@
         <mxCell id="vBwOCmOoMPgOotdSWxI--9" value="Why does everyone use tabular data?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;position2=0;" vertex="1" parent="1">
           <mxGeometry x="-220" y="280" width="220" height="88.25" as="geometry" />
         </mxCell>
-        <mxCell id="vBwOCmOoMPgOotdSWxI--11" value="The table is the most general (ie., least specialised) data structure&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="vBwOCmOoMPgOotdSWxI--11" value="The table is one of the most general (ie., least specialised) data structure&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="-830" y="360" width="340" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="vBwOCmOoMPgOotdSWxI--12" value="Matrices..." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=2" vertex="1" parent="1">
-          <mxGeometry x="-1120" y="120" width="340" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Uu6-kL4KjdxUeRXzhRIp-2" value="What are RDBMSes?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-696" y="940" width="395" height="290" as="geometry" />
@@ -241,6 +238,9 @@
         </mxCell>
         <mxCell id="Uu6-kL4KjdxUeRXzhRIp-15" value="on every mobile, router, laptop, ...&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="-370" y="1430" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DnRAzOs8X11gLC3oYwT_-1" value="eg., Matrices in mathematics" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-850" y="293.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
