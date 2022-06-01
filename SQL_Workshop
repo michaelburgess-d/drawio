@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T08:01:12.309Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BEup3p9-kODm4CfkAwxX" version="18.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-06-01T08:18:51.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JyKn5cDX2M915B-3mKc-" version="18.2.0" type="github" pages="8">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1548" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="UUQTI9xCpZHFy0er7Z2--1" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="840" y="508" width="270" height="60" as="geometry" />
+          <mxGeometry x="840" y="590" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UUQTI9xCpZHFy0er7Z2--2" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="840" y="320" width="270" height="60" as="geometry" />
@@ -89,6 +89,15 @@
             <mxGeometry x="580" y="660" width="550" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-2" value="Wellbeing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="890" y="510" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-3" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dR7VwP0kOZyc0g5fi__p-4" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="270" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
