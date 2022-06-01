@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T14:22:19.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ga4mhhHLSf8sVhJE7uct" version="18.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-01T14:24:14.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YxSVffuBeGGc6q9mQmMD" version="18.2.0" type="github" pages="13">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1468" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -467,8 +467,31 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="_75Ui2C2wJLusNc0NhJC" name="JOIN">
+    <mxGraphModel dx="1560" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-2" value="A1&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-3" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="280" y="100" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-4" value="A1&lt;br&gt;A2&lt;br&gt;A3&lt;br&gt;A5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-5" value="B1&lt;br&gt;B2&lt;br&gt;B4&lt;br&gt;B5" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="910" y="20" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="hfOICmReSWq1Ix4JwTkc-6" value="with no field, how do we know which rows to pair up?" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="520" y="10" width="170" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="DO7YZBmzrQrsGnP8d-27" name="DiscussJOIN">
-    <mxGraphModel dx="1248" dy="1522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="1488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
