@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T13:41:52.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OY67VN7VJMNvI5q9c5nT" version="18.2.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-06-01T13:44:16.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qjIRVxQBNtcrdwvEliSH" version="18.2.0" type="github" pages="11">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
-    <mxGraphModel dx="680" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="436" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-13" value="Review: Solutions I (10 min)" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="270" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYAciLbRC5Rm4hqzVgsS-4" value="Discussion: JOINs (10 min)" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-4" value="Discussion: ERD &amp; JOINs (10 min)" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="300" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-10" value="2 HOUR MARK -- START GROUPs &amp; MANAGE YOUR OWN BREAK (5 to 10min)" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=1" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
