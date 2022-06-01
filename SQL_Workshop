@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T12:46:43.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="n8IvCukH5Nnxh_wSR3UO" version="18.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-01T12:55:01.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VWWLXO6tyeR6ZiqkS8xB" version="18.2.0" type="github" pages="12">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,11 +90,92 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="9uPUKhHqLEGLDTKIDtbo" name="Page-12">
-    <mxGraphModel dx="1248" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="9uPUKhHqLEGLDTKIDtbo" name="WhatIsSQL?">
+    <mxGraphModel dx="1468" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-1" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="293" width="430" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-2" value="" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-3" value="Structured &lt;br&gt;Query Language" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="140" y="50" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-4" value="Relational Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="400" y="100" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" edge="1" parent="1" source="jYZwkOXDDnnX2HgySw-H-6" target="jYZwkOXDDnnX2HgySw-H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-6" value="Structured" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" edge="1" parent="1" source="jYZwkOXDDnnX2HgySw-H-7" target="jYZwkOXDDnnX2HgySw-H-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-7" value="Relation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="30" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-8" value="&lt;b&gt;Table&lt;/b&gt;&lt;br&gt;Rows &amp;amp; Columns" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-10" value="Database" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-13" value="mathematical term for table" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="420" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-14" value="Tabular" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-16" value="Data Store" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-17" value="Meaningful Organization" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="830" y="120" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_add_48px-128.png;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="750" y="121" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-19" value="Database" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="310" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-20" value="History of &lt;br&gt;Relational&lt;br&gt;DBs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="460" y="540" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-22" value="What decade were they invented?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="610" y="533" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-23" value="What industry were they mostly invnted for?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="840" y="565" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-25" value="IBM 70s" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="560" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="565" width="170" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-21" value="Retail" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jYZwkOXDDnnX2HgySw-H-28">
+          <mxGeometry width="170" height="54.44444444444444" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-24" value="Marketing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="jYZwkOXDDnnX2HgySw-H-28">
+          <mxGeometry y="63.51851851851852" width="170" height="54.44444444444444" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-26" value="Healthcare" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="jYZwkOXDDnnX2HgySw-H-28">
+          <mxGeometry y="127.03703703703704" width="170" height="54.44444444444444" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-27" value="Banking" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="jYZwkOXDDnnX2HgySw-H-28">
+          <mxGeometry y="190.55555555555557" width="170" height="54.44444444444444" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-30" value="keep track of retail transactions&lt;br&gt;&lt;br&gt;eg., customer transactions" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="660" y="630" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jYZwkOXDDnnX2HgySw-H-31" value="each day 1000s transaction" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="878" y="660" width="260" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
