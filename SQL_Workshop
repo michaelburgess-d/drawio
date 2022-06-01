@@ -1,1 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T06:48:52.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="18.1.3" etag="cncq5lG6wcNicZsfVMta" type="github"><diagram id="CLAaZ_SNN5WcLwHUl31h">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-01T07:04:59.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="diOfGVCW_t_KQmTEuqks" version="18.1.3" type="github" pages="4">
+  <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
+    <mxGraphModel dx="796" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-1" value="Lesson Plan" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="490" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-2" value="Introductions: Who am I? Who are you? (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="30" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-1" value="Discussion: Examples of Relational DBs (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="60" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-3" value="Discussion: What is SQL? What are relational databases? What is SQLite? (20 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="90" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-4" value="Discussion: How do you query data with SQL? (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="120" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-11" value="Polls: Menti (10 min)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="150" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-9" value="BREAK (10 min)" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="180" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-2" value="Demo: Using SQL &amp; SQLite in Jupyter (10 min)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="210" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-3" value="Activity: Notebook I ( 20 min )" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="240" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-13" value="Review: Solutions I (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="270" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-4" value="Discussion: JOINs (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="300" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-5" value="Activity: Notebook II (20 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="330" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-10" value="BREAK (10 min)" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="360" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-12" value="Review: Solutions II (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="390" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-6" value="Discussion: Sub-Queries (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="420" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-7" value="Activity: Notebook III (10 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="450" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-8" value="Review (10 min)" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;" vertex="1" parent="VWfBdDnu5YcHsyJutp1g-1">
+          <mxGeometry y="480" width="490" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-5" value="SQL" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="120" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VWfBdDnu5YcHsyJutp1g-6" value="Safeguarding" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=15;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KnVchs87QeQyNoE7treW" name="IntroSQL&amp;SQLite">
+    <mxGraphModel dx="1399" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9JOhqPGoETHmBzDQl8ip" name="ReviewSQL">
+    <mxGraphModel dx="1399" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4EGaTygKGwWpqYiw7jq8" name="ReviewERD">
+    <mxGraphModel dx="466" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
