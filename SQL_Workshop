@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T14:19:21.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pR1sCwJwvz6uF4INxDj0" version="18.2.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-06-01T14:22:19.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ga4mhhHLSf8sVhJE7uct" version="18.2.0" type="github" pages="12">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1468" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -414,43 +414,55 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="T25j0d-f2s6uvCb7IKDz-1" value="Linking Tables" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=36;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="510" y="320" width="300" height="180" as="geometry" />
+          <mxGeometry x="560" y="827" width="300" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="Whd61GIIXMNF6FFgbUHc-1" value="&lt;b&gt;Normalization&lt;/b&gt;: opinionated, suited to writing/update live data systems" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="Whd61GIIXMNF6FFgbUHc-1" value="&lt;b&gt;Normalization =&lt;br&gt;Live, Write/Update&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="110" y="30" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-1" value="Table&lt;br&gt;Row: Person" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="50" y="360" width="200" height="170" as="geometry" />
+          <mxGeometry x="50" y="160" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-2" value="Table&lt;br&gt;Row: Address" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="280" y="360" width="200" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="IUEgQwE3uRwQQzAzFzEi-3" value="Row: Person, Address" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="840" y="360" width="300" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="IUEgQwE3uRwQQzAzFzEi-5" value="write one piece&lt;br&gt;read from one piece&lt;br&gt;update piece" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="190" y="190" width="340" height="130" as="geometry" />
+          <mxGeometry x="290" y="160" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-6" value="Table&lt;br&gt;Row: Order" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="50" y="550" width="200" height="170" as="geometry" />
+          <mxGeometry x="40" y="870" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IUEgQwE3uRwQQzAzFzEi-7" value="&lt;b&gt;Denormalization&lt;/b&gt;: opinionated, suited to reading" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="IUEgQwE3uRwQQzAzFzEi-7" value="&lt;b&gt;Denormalization = &lt;br&gt;Analytical Read-Only&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="790" y="30" width="310" height="150" as="geometry" />
         </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-8" value="ANALYSIS: JOINs" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="590" as="sourcePoint" />
-            <mxPoint x="1020" y="590" as="targetPoint" />
+            <mxPoint x="510" y="970" as="sourcePoint" />
+            <mxPoint x="950" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IUEgQwE3uRwQQzAzFzEi-9" value="our report" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="290" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-10" value="Table&lt;br&gt;Row: Store" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-          <mxGeometry x="270" y="620" width="200" height="170" as="geometry" />
+          <mxGeometry x="270" y="870" width="200" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IUEgQwE3uRwQQzAzFzEi-11" value="Link: Person_ID, Address_ID" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
-          <mxGeometry x="650" y="620" width="300" height="80" as="geometry" />
+          <mxGeometry x="580" y="1000" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-1" value="every table&#39;s row should be one kind of thing" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=41;fontColor=#000000;strokeColor=default;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="150" y="300" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-3" value="write one piece&lt;br&gt;read from one piece&lt;br&gt;update piece" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-4" value="Table&lt;br&gt;Row: Person, Address" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="800" y="190" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-5" value="a table&#39;s row can be combinations of stuff" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=41;fontColor=#000000;strokeColor=default;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="890" y="310" width="320" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-6" value="why split data?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=41;fontColor=#000000;strokeColor=default;fillColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-7" value="reading from database" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="340" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="1Aw_sn-siDEbZe7thVZE-8" value="Table&lt;br&gt;Row: Person, Address" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=28;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="890" width="300" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
