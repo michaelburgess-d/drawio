@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T11:11:59.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NnokhdagMT_fpbEoVFok" version="18.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-06-01T11:12:12.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8V-qR_hGwMN6GyorAzui" version="18.2.0" type="github" pages="10">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1880" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="bYAciLbRC5Rm4hqzVgsS-6" value="Discussion: Sub-Queries (10 min)" style="text;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="420" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bYAciLbRC5Rm4hqzVgsS-7" value="Activity: Notebook III (20 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
+        <mxCell id="bYAciLbRC5Rm4hqzVgsS-7" value="Activity: Notebook III (10 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
           <mxGeometry y="450" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qQZMMbyOK7yo4raQjr0h-1" value="Review: Solutions III" style="text;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="VWfBdDnu5YcHsyJutp1g-1" vertex="1">
