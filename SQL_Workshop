@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-01T13:37:00.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qlWDQFFGJj2Kaqz4T9Ll" version="18.2.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-06-01T13:37:10.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bhe6kZ0Ha1M0f4JYo9YT" version="18.2.0" type="github" pages="15">
   <diagram id="CLAaZ_SNN5WcLwHUl31h" name="IntroSQLWorkshop">
     <mxGraphModel dx="1248" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9uPUKhHqLEGLDTKIDtbo" name="WhatIsSQL?">
-    <mxGraphModel dx="3665" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2496" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,7 +162,7 @@
           <mxGeometry x="850" y="760" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hnoap-XDRuhYBLEev11Q-1" value="BigData / NoSQL = &lt;br&gt;Often better at relationships" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-1080" y="395" width="220" height="106" as="geometry" />
+          <mxGeometry x="140" y="160" width="220" height="106" as="geometry" />
         </mxCell>
         <mxCell id="hnoap-XDRuhYBLEev11Q-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Relational_database_terms.svg/1920px-Relational_database_terms.svg.png;" vertex="1" parent="1">
           <mxGeometry x="839.01" y="590" width="320.99" height="150" as="geometry" />
