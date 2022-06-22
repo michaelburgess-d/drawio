@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T07:25:44.302Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="0iKcXMnPsrE401KK1WQB" version="20.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-22T08:19:42.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="A6VaURRDPiwtZeBoOv5E" version="20.0.1" type="github" pages="3">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArchiecture">
-    <mxGraphModel dx="934" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1898" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-2" value="Introductions: Who am I? Who are you?                                    (20 min)" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="30" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1s-YOk3iyrwi0xUX-N1H-3" value="Discussion: What is Data Architecture?                                     (20 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
+        <mxCell id="1s-YOk3iyrwi0xUX-N1H-3" value="Discussion: What is Data Architecture &amp; Data Modelling?       (15 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="60" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-9" value="Group Activity: Design a Library Data Model                              (20 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=none;fontStyle=0;fontColor=#ffffff;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
@@ -28,13 +28,13 @@
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-33" value="Individual Activity: Extract with Python                                     (20 min)" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=none;fontStyle=0;fontColor=#ffffff;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="210" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KW4pgRJSblPoe1ae_6xs-1" value="Discussion: Review (10 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1s-YOk3iyrwi0xUX-N1H-1">
+        <mxCell id="KW4pgRJSblPoe1ae_6xs-1" value="Discussion: Review (10 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="240" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-13" value="2 HOUR MARK                                 BREAK                                     (5 min)" style="text;strokeColor=none;fillColor=#000000;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=0;fontColor=#FFFFFF;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="270" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KW4pgRJSblPoe1ae_6xs-2" value="Discussion: Transform &amp; Load                                                    (10 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1s-YOk3iyrwi0xUX-N1H-1">
+        <mxCell id="KW4pgRJSblPoe1ae_6xs-2" value="Discussion: Transform &amp; Load                                                    (10 min)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="300" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-12" value="Group Activity: Transform &amp; Load                                              (30 min)  " style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=none;fontStyle=0;fontColor=#ffffff;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-27" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="886" y="680" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kHTzqbHaPCYti8Byg7Zm-1" value="Ask in Chat or on Mic" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
