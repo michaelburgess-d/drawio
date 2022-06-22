@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T08:33:36.267Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4AbYUteqft6zSifFM7dS" version="20.0.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-22T08:37:25.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Mo9N-1Uxy7z0SR-GNvv3" version="20.0.1" type="github" pages="4">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArchiecture">
     <mxGraphModel dx="1898" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -158,9 +158,6 @@
         <mxCell id="EinBdlgoCf5DDzFbNlJO-26" value="Cube =&amp;nbsp;&lt;br&gt;Multi-table summary" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="90" y="-413" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EinBdlgoCf5DDzFbNlJO-27" value="What are Data Models &amp;amp; ERDs?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=26;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-145" y="-240" width="430" height="184" as="geometry" />
-        </mxCell>
         <mxCell id="EinBdlgoCf5DDzFbNlJO-28" value="Excel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="-280" y="-680" width="120" height="60" as="geometry" />
         </mxCell>
@@ -186,10 +183,84 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jCLMIWq_1vB8zeG8ipoq" name="DataModels_ERD">
-    <mxGraphModel dx="934" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="1878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-1" value="What are Data Models &amp;amp; ERDs?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=26;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="199" y="-570" width="430" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-2" value="Data Stored" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-295" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-3" value="What does ERD stand for?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=19;base=20;" vertex="1" parent="1">
+          <mxGeometry x="399" y="-584" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-4" value="Entity&amp;nbsp;&lt;br&gt;Relationship&lt;br&gt;Diagram" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="470" y="-330" width="310" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-5" value="What does ERD tell you?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=19;base=20;" vertex="1" parent="1">
+          <mxGeometry x="597" y="-390" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yJ6wIB-U027TBbkVvZGt-7" value="Data&amp;nbsp;&lt;br&gt;Relates" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-170" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VniSl-ujel4n1w6HcN9K" name="DataArch">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="120" y="70" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="120" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-3" value="web" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="810" y="90" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=19;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" edge="1" parent="1" source="uNGdqKEiS1IPH4_wUevu-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=19;exitX=1;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="sourcePoint" />
+            <mxPoint x="360" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="350" y="190" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=19;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="uNGdqKEiS1IPH4_wUevu-7" target="uNGdqKEiS1IPH4_wUevu-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="280" as="sourcePoint" />
+            <mxPoint x="540" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-9" value="Excel" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-10" value="PowerBI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=19;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="uNGdqKEiS1IPH4_wUevu-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="sourcePoint" />
+            <mxPoint x="654.4898187420417" y="118.41268657820058" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNGdqKEiS1IPH4_wUevu-12" value="a data engineering architecture&lt;br&gt;left-to-right" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="260" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
