@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:14:36.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dSHmH-0B1aQDAn7ex4I_" version="20.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:14:50.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_Uy6Ms0EeX0MA8U5sWeu" version="20.0.2" type="github" pages="3">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArch_LessonPlan">
     <mxGraphModel dx="2248" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CWn8RSCjkhXgX-i-o0oG-1" value="What is relevant to&lt;br style=&quot;font-size: 29px;&quot;&gt;&amp;nbsp;Data Architecture?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=29;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1070" y="-740" width="320" height="184" as="geometry" />
+          <mxGeometry x="-1169" y="-827" width="360" height="207" as="geometry" />
         </mxCell>
         <mxCell id="S35xVs9JK2X4CDbCrpay-1" value="What are Data Models &amp;amp; ERDs?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-450" y="-210" width="430" height="184" as="geometry" />
