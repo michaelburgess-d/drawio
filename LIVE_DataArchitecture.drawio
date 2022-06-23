@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:19:23.975Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rRbLAQJTnW4fV08zOYu4" version="20.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:54:43.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YNajqVmnGO1km3QgKiyg" version="20.0.2" type="github" pages="3">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArch_LessonPlan">
-    <mxGraphModel dx="2248" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2252" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S3rxQqn5xhS6ePLu4Hfa" name="MindMap">
-    <mxGraphModel dx="3417" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,88 @@
           <mxGeometry x="-1169" y="-827" width="360" height="207" as="geometry" />
         </mxCell>
         <mxCell id="S35xVs9JK2X4CDbCrpay-1" value="What are Data Models &amp;amp; ERDs?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-340" y="-210" width="320" height="184" as="geometry" />
+          <mxGeometry x="-250" y="-210" width="230" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-1" value="Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="-560" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-2" value="Data Governance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="-520" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-3" value="Data Modelling" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-256.5" y="-530" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-4" value="ERD" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-5" value="Data Rules" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-6" value="Data Migration &amp;amp; Transformation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-750" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-7" value="Entity Relational Diagram" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-700" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-8" value="ELT" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-9" value="Extract Transform Load" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-625" y="-790" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-10" value="Combining &amp;amp; Linking Datasets" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-650" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-11" value="Data Processing" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="-580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-12" value="Relational" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="-550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-13" value="Non-Relational" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="-284" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-14" value="NoSQL" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="-340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-15" value="Relation = Tables" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="-610" width="172" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-17" value="Non-relational databsaes are often better at reationships between data" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1120" y="-96" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-18" value="images, video, ..." style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="-210" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-19" value="(social) network" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1082" y="-160" width="162" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-20" value="Data Security" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-21" value="Data Sharing" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-22" value="Data Catalogue" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="-180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-23" value="Data Warehouse" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="-230" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-24" value="Data Mart" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-686" y="-160" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-25" value="Data Gateway" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-686" y="-91" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-26" value="Data Lake" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-900" y="-407" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-27" value="store historical analytical datasets = spreadsheets" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="-320" width="200" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-28" value="folder = store historical analytical &lt;br&gt;unstructured data" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-866" y="-480" width="200" height="119.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
