@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:56:55.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rCYQvkWa5q5GO8HrCtWk" version="20.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:59:16.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mCnHJ6Xl3BdManugHX_L" version="20.0.2" type="github" pages="4">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArch_LessonPlan">
     <mxGraphModel dx="2252" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -194,8 +194,37 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="d7bVFoUHwLBu2t8lXI2x" name="WhyERDs?">
+    <mxGraphModel dx="2776" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EV___qAIhQa0ub9CAKBl-1" value="What are Data Models &amp;amp; ERDs?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-840" y="-827" width="400" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-3" value="Entity Relationship Diagram" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="-560" width="270" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-4" value="E = Table&lt;br&gt;R = Link&lt;br&gt;D = Sketch" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="-730" width="120" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-5" value="E = Business Object&lt;br&gt;R = Process&lt;br&gt;D = Sketch" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="-630" width="190" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-7" value="1-to-1" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-8" value="1-to-Many" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EV___qAIhQa0ub9CAKBl-9" value=".." style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="-430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="_Nr4Ol97FRj3l-Hppn7c" name="ERD">
-    <mxGraphModel dx="1635" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1753" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
