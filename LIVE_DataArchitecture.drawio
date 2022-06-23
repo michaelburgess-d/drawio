@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T12:54:43.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YNajqVmnGO1km3QgKiyg" version="20.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-23T12:56:55.407Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rCYQvkWa5q5GO8HrCtWk" version="20.0.2" type="github" pages="3">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArch_LessonPlan">
     <mxGraphModel dx="2252" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S3rxQqn5xhS6ePLu4Hfa" name="MindMap">
-    <mxGraphModel dx="2585" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2776" dy="1710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,10 +98,10 @@
         <mxCell id="g93mvkoxBAgEScRmthkh-1" value="Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-1140" y="-560" width="153" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="g93mvkoxBAgEScRmthkh-2" value="Data Governance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="-520" width="153" height="153" as="geometry" />
+        <mxCell id="g93mvkoxBAgEScRmthkh-2" value="Data Governance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="-590" width="153" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="g93mvkoxBAgEScRmthkh-3" value="Data Modelling" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="g93mvkoxBAgEScRmthkh-3" value="Data Modelling" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-256.5" y="-530" width="153" height="153" as="geometry" />
         </mxCell>
         <mxCell id="g93mvkoxBAgEScRmthkh-4" value="ERD" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
@@ -116,7 +116,7 @@
         <mxCell id="g93mvkoxBAgEScRmthkh-7" value="Entity Relational Diagram" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-700" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="g93mvkoxBAgEScRmthkh-8" value="ELT" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="g93mvkoxBAgEScRmthkh-8" value="ELT, ETL" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g93mvkoxBAgEScRmthkh-9" value="Extract Transform Load" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
@@ -168,13 +168,28 @@
           <mxGeometry x="-686" y="-91" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g93mvkoxBAgEScRmthkh-26" value="Data Lake" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-900" y="-407" width="140" height="60" as="geometry" />
+          <mxGeometry x="-900" y="-320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g93mvkoxBAgEScRmthkh-27" value="store historical analytical datasets = spreadsheets" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-730" y="-320" width="200" height="106" as="geometry" />
         </mxCell>
         <mxCell id="g93mvkoxBAgEScRmthkh-28" value="folder = store historical analytical &lt;br&gt;unstructured data" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="-866" y="-480" width="200" height="119.5" as="geometry" />
+          <mxGeometry x="-866" y="-393" width="200" height="119.5" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-29" value="Databases" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-1140" y="-560" width="153" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-30" value="Data Migration &amp;amp; Transformation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="-750" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-31" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="-467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-32" value="&lt;b&gt;LEFT&lt;/b&gt;, RIGHT, &lt;b&gt;INNER&lt;/b&gt;, OUTER JOIN" style="rounded=1;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-838" y="-467" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g93mvkoxBAgEScRmthkh-33" value="LEFT = LEFT + MATCHING RIGHT&lt;br&gt;INNER = MATCHING LEFT + MATCHING RIGHT" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="-838" y="-610" width="396" height="166.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
