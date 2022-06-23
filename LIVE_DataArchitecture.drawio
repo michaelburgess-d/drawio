@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T13:07:06.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5R9KpYVJMgkAnytb042T" version="20.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-06-23T13:10:21.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MXEz6ZWfYQBpeT8D57qv" version="20.0.2" type="github" pages="4">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataArch_LessonPlan">
     <mxGraphModel dx="2252" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -488,7 +488,7 @@
             <mxPoint x="414" y="-185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RWRSCKhJ3a0YoUFnxasu-62" value="ERD: Library" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+        <mxCell id="RWRSCKhJ3a0YoUFnxasu-62" value="Create an ERD: for a Library (20min)" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=24;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
           <mxGeometry x="70" y="-90" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
