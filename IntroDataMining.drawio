@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T07:52:42.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="32XwyaP7x_U-Vkh1pmoO" version="20.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-06-29T07:53:11.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FcdeDm1cJiAKVBb6_632" version="20.0.3" type="github" pages="3">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataMining">
-    <mxGraphModel dx="2071" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="OiCcg-KcF_1ikjrQXfSO-1" value="Discussion: Data Mining with Quantitative Features (PART 1)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1s-YOk3iyrwi0xUX-N1H-1">
           <mxGeometry y="150" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1s-YOk3iyrwi0xUX-N1H-15" value="Individual Challenges: 10min  x3" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
+        <mxCell id="1s-YOk3iyrwi0xUX-N1H-15" value="Individual Challenges: 10min  x3" style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontColor=#ffffff;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="180" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-13" value="2 HOUR MARK                                GROUPs &amp; BREAK                 (5 min)" style="text;strokeColor=none;fillColor=#FFFF33;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=0;fontColor=#000000;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
@@ -31,7 +31,7 @@
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-14" value="Discussion: Data Mining with Categorical Features (PART 2)" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
           <mxGeometry y="240" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OiCcg-KcF_1ikjrQXfSO-4" value="Group Challenges: 15min-20min x2" style="text;strokeColor=none;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;" vertex="1" parent="1s-YOk3iyrwi0xUX-N1H-1">
+        <mxCell id="OiCcg-KcF_1ikjrQXfSO-4" value="Group Challenges: 15min-20min x2" style="text;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontColor=#ffffff;" vertex="1" parent="1s-YOk3iyrwi0xUX-N1H-1">
           <mxGeometry y="270" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1s-YOk3iyrwi0xUX-N1H-17" value="3 HOUR MARK                                 " style="text;strokeColor=none;fillColor=#FFFF33;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fontStyle=0;fontColor=#000000;" parent="1s-YOk3iyrwi0xUX-N1H-1" vertex="1">
