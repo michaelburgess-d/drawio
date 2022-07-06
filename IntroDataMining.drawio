@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T08:31:30.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wlPHs01wOaGwVtxFmACA" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-06T08:32:24.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iFgpQET3goWOUHDVUCss" version="20.0.4" type="github" pages="5">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataMining">
     <mxGraphModel dx="1498" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -124,6 +124,15 @@
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-17" value="predicting the value of a measurement" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="670" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-18" value="oven temp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="900" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-19" value="door open" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="820" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-20" value="temp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="980" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
