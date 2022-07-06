@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T08:32:39.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_m_VQkxaeGkGf6Eka-LJ" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-06T08:40:22.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GDLbxBGDXjyD1tx9Z3ZI" version="20.0.4" type="github" pages="5">
   <diagram id="HZe9n2l0ClVb4Da5Xwr6" name="DataMining">
     <mxGraphModel dx="1498" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -78,21 +78,21 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="nlSSzks4sH9F-buimGiN-1" value="Why Data Mining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="750" y="70" width="330" height="100" as="geometry" />
+          <mxGeometry x="830" y="60" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IGcCVWle85ZSUiZv3Qsg-12" value="What&#39;s relevant to &lt;br&gt;Data Mining &lt;br&gt;&amp;amp; Machine Learning?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="10" width="340" height="260" as="geometry" />
+          <mxGeometry x="10" y="10" width="340" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="110" height="110" as="geometry" />
+        <mxCell id="72zvje_G_KQKie9cKk6M-1" value="automation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="420" y="30" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-2" value="predictions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="130" y="440" width="110" height="110" as="geometry" />
+        <mxCell id="72zvje_G_KQKie9cKk6M-2" value="predictions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-3" value="patterns" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="72zvje_G_KQKie9cKk6M-3" value="patterns" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="620" y="370" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-4" value="algorithms" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="72zvje_G_KQKie9cKk6M-4" value="algorithms" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="350" y="250" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-5" value="a sequence of operations to follow" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=17;" vertex="1" parent="1">
@@ -105,16 +105,16 @@
           <mxGeometry x="620" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-11" value="13985734985712-098457984278" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="770" y="240" width="380" height="60" as="geometry" />
+          <mxGeometry x="740" y="370" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-12" value="1111222333 = 4x1, 3x2, 3x3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="770" y="310" width="380" height="60" as="geometry" />
+          <mxGeometry x="740" y="440" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-13" value="what might happen in the future" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="255" y="465" width="300" height="60" as="geometry" />
+        <mxCell id="72zvje_G_KQKie9cKk6M-13" value="what might happen in the future" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="255" y="490" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="72zvje_G_KQKie9cKk6M-14" value="is &quot;predicting a quantity/measure&quot; the same as predicting in general?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="320" y="550" width="290" height="100" as="geometry" />
+        <mxCell id="72zvje_G_KQKie9cKk6M-14" value="is &quot;predicting a quantity/measure&quot; the same as predicting in general?" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-15" value="imagining a whole way the world could be" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="670" width="350" height="60" as="geometry" />
@@ -133,6 +133,30 @@
         </mxCell>
         <mxCell id="72zvje_G_KQKie9cKk6M-20" value="temp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="980" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-21" value="(automate) narrow tasks: &lt;br&gt;highly specialised, repeat, know how to repeat, know what the outcome should be&amp;nbsp;&lt;br&gt;&lt;br&gt;(human) open task:&amp;nbsp;&lt;br&gt;dont know what the solution looks like, dont know method, dont know whats relevant" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="570" y="30" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-22" value="data formats" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="240" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-24" value="data = encoded as numbers" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="890" y="190" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-28" value="ENCODING" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=17;" edge="1" parent="1" source="72zvje_G_KQKie9cKk6M-25" target="72zvje_G_KQKie9cKk6M-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-25" value="&quot;the cat sat on the mat&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="265" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-26" value="(10, 2, 1, 11, 10, 3)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="390" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="72zvje_G_KQKie9cKk6M-29" target="72zvje_G_KQKie9cKk6M-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="72zvje_G_KQKie9cKk6M-29" value="&quot;the bat sat on the rat&quot;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="265" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
