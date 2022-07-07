@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:29:11.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="u2tIjYZQb6iw95Xbe7j1" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:34:24.675Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hN8Q3vhiGV5qygPJpnTl" version="20.0.4" type="github" pages="11">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="2071" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
           <mxGeometry x="810" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="COn3pPav1gdGMLOmOI8G-7" value="explain" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="930" y="440" width="180" height="60" as="geometry" />
+          <mxGeometry x="473.33" y="190" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="COn3pPav1gdGMLOmOI8G-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.674;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" edge="1" parent="1" source="COn3pPav1gdGMLOmOI8G-9" target="COn3pPav1gdGMLOmOI8G-20">
           <mxGeometry relative="1" as="geometry" />
@@ -143,6 +143,57 @@
         </mxCell>
         <mxCell id="COn3pPav1gdGMLOmOI8G-34" value="YOUR GOALS" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-35" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="40" as="sourcePoint" />
+            <mxPoint x="950" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-38" value="describe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-39" value="diagnose" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-40" value="predict" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-41" value="prescribe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1140" y="50" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-42" value="mean()" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-46">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-43" value="comparing &lt;br&gt;mean(), mean()" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-46">
+          <mxGeometry y="70" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-44" value="prediction = &lt;br&gt;mean() * data + data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-46">
+          <mxGeometry y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-45" value="prescribe =&amp;nbsp;&lt;br&gt;goal + judgement + &lt;b&gt;evidence&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-46">
+          <mxGeometry y="210" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1360" y="50" width="210" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-48" value="avg price" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-47">
+          <mxGeometry width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-49" value="volume campaign A,&lt;br&gt;&amp;nbsp;volume campaign B" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-47">
+          <mxGeometry y="70" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-50" value="Volume of Camp. C = &lt;br&gt;mean(B) * C + C&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-47">
+          <mxGeometry y="140" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-51" value="maximise sales volume, theref. implement best campaign" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;" vertex="1" parent="COn3pPav1gdGMLOmOI8G-47">
+          <mxGeometry y="210" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="COn3pPav1gdGMLOmOI8G-52" value="should we prefer profit vs. volume?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="210" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
