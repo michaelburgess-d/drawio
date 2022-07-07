@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T07:31:40.829Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.0.4" etag="sp_J8z2a-_O_aPi41pvY" type="github"><diagram id="5mJcMba8RTxMSJq4UI1F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-07T07:49:06.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bwH0XFovUU4S0N0bubMN" version="20.0.4" type="github" pages="6">
+  <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
+    <mxGraphModel dx="2071" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-1" value="Data Analysis &lt;br&gt;in the Organization" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="470" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-2" value="Safeguarding" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="165" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-3" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="440" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-4" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="40" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-5" value="Values &amp;amp; Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="790" y="102" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-6" value="Wellbeing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#1ba1e2;strokeColor=none;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="230" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-7" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="300" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7qCfZDDpdyVbDWVGjBB0-8" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="370" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VGtOBrq5MBEOBga-XYdA" name="TypesOfAnalysis">
+    <mxGraphModel dx="2848" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="maoa1b_7UYHuHnPnVJ4G-1" value="..." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="30" width="313.33" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6_p8zdFfJWtDVtlYR0UY" name="ProjectRequirements">
+    <mxGraphModel dx="1139" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="etoCx4WxPNpqe8iBzuDv" name="DataManagement">
+    <mxGraphModel dx="1139" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rVA9upmGoM8umeDlYTEp" name="DataProjects">
+    <mxGraphModel dx="1139" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-N8f0wPQeqWfen5uniR_" name="(Practice) Data Project">
+    <mxGraphModel dx="1139" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
