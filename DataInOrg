@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T10:12:23.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hFP5iBRW0oe_gX2n5zTu" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-07T10:26:33.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9cCM_VEK03j-9FTPA5qJ" version="20.0.4" type="github" pages="9">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ygzSTM_9roWs_5UShYFp" name="SoftwareVsAnalysis">
-    <mxGraphModel dx="1383" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1998" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -323,18 +323,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8bg8ctKd3SiqDhWylQwu" name="BREAK">
-    <mxGraphModel dx="3254" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2569" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-6GKkGD_Cdsa7uoiIivM-1" value="BREAK" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="-6GKkGD_Cdsa7uoiIivM-1" value="BREAK (15min)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" y="230" width="610" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="qtJMao8DtnBOCYBs6tqn" name="(Practice) ProjectBriefs">
-    <mxGraphModel dx="2569" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2248" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -440,108 +440,116 @@
         <mxCell id="xzAHo6CogQYoF_wkrp5x-32" value="do they always?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="910" y="10" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-33" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="W9Ah8ftSzF9fjyvWjwDj" name="Aside:ImageClassification">
+    <mxGraphModel dx="466" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qaGolk6uyLBzDpuEawZq-1" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1250" y="450" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-34" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-2" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1260" y="460" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-35" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-3" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1270" y="470" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-36" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-4" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1280" y="480" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-37" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-5" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1290" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-38" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-6" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1300" y="500" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-39" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-7" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1310" y="510" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-40" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-8" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1320" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-41" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-9" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1260" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-42" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-10" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1270" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-43" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-11" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1280" y="310" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-44" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-12" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1290" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-45" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-13" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1300" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-46" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-14" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1310" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-47" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-15" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1320" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-48" value="model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-16" value="model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1330" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-49" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;startArrow=none;" edge="1" parent="1" source="xzAHo6CogQYoF_wkrp5x-50">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-17" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;startArrow=none;" edge="1" parent="1" source="qaGolk6uyLBzDpuEawZq-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1230" y="420" as="sourcePoint" />
             <mxPoint x="1580" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-10" value="most similar?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="xzAHo6CogQYoF_wkrp5x-50">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-18" value="most similar?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="qaGolk6uyLBzDpuEawZq-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1630.3333333333335" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xzAHo6CogQYoF_wkrp5x-50" value="compare pixel-by-pixel" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-19" value="compare pixel-by-pixel" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1545" y="490" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-7" value="what is this?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="DLjMDOATEd1ow7v7yvvZ-5" target="xzAHo6CogQYoF_wkrp5x-50">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-20" value="what is this?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="qaGolk6uyLBzDpuEawZq-21" target="qaGolk6uyLBzDpuEawZq-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-5" value="new images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-21" value="new images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1590" y="280" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-8" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-22" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1490" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-9" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-23" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1700" y="590" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-11" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-24" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1500" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-12" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-25" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1510" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-13" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-26" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1710" y="600" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-14" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-27" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1720" y="610" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-15" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-28" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1730" y="620" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="DLjMDOATEd1ow7v7yvvZ-16">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="qaGolk6uyLBzDpuEawZq-30">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1809" y="570" as="targetPoint" />
+            <mxPoint x="1809.0000000000005" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DLjMDOATEd1ow7v7yvvZ-16" value="new type of model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="qaGolk6uyLBzDpuEawZq-30" value="new type of model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1754" y="260" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FoXMJgqXk0JIl_FoZb4C" name="ProjectReqs">
-    <mxGraphModel dx="1627" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1284" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -606,7 +614,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6_p8zdFfJWtDVtlYR0UY" name="ProjectRequirements">
-    <mxGraphModel dx="1752" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -633,25 +641,9 @@
         <mxCell id="Z0hS2H2frMofPpQvc6De-4" value="10 min = brainstorming&lt;br&gt;20 min = write up&lt;br&gt;10 min BREAK" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="230" y="60" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="kLkIbBa9txqHIGTIAdnq-1" value="Group Practice &amp;amp; Break" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="kLkIbBa9txqHIGTIAdnq-1" value="Group Practice (35 min)&lt;br&gt;&amp;amp; Break (10 min)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="550" y="370" width="610" height="280" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="rVA9upmGoM8umeDlYTEp" name="DataProjects">
-    <mxGraphModel dx="1139" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="-N8f0wPQeqWfen5uniR_" name="(Practice) Data Project">
-    <mxGraphModel dx="1139" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
