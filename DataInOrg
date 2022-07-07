@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T10:07:09.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Si2oJPOsYnZO0lXPa1R5" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-07T10:07:55.823Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pKTFpGI3FtJZKMuY8QfP" version="20.0.4" type="github" pages="10">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -629,6 +629,9 @@
         </mxCell>
         <mxCell id="Z0hS2H2frMofPpQvc6De-3" value="Challenge yourselves: &lt;br&gt;software, &lt;br&gt;reports,&lt;br&gt;&amp;nbsp;stakeholders, &lt;br&gt;impacts, ..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="310" y="340" width="260" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0hS2H2frMofPpQvc6De-4" value="10 min = brainstorming&lt;br&gt;20 min = write up&lt;br&gt;10 min BREAK" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="210" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
