@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:03:45.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LCrz4WcGVNAU5847Vxrb" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:04:06.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qnXILzznBrp_jLd5plL6" version="20.0.4" type="github" pages="11">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -224,13 +224,13 @@
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-11" value="Who reads reports?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-12" value="end-users" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-12" value="biz end-users" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="870" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-13" value="constomers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1010" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-14" value="end-users" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-14" value="biz end-users" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="300" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-15" value="Why produce software?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
@@ -245,7 +245,7 @@
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-18" value="customer&lt;br&gt;automation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1010" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-19" value="consumers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="9DA57SqO3SpRG0Wt7Jsw-19" value="data consumers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="170" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-20" value="executives" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
