@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:04:06.843Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qnXILzznBrp_jLd5plL6" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:08:39.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="vPA52EtEbG-lDQS_fA75" version="20.0.4" type="github" pages="11">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="790" y="165" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7qCfZDDpdyVbDWVGjBB0-3" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="790" y="440" width="270" height="60" as="geometry" />
+          <mxGeometry x="790" y="510" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7qCfZDDpdyVbDWVGjBB0-4" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="790" y="40" width="270" height="60" as="geometry" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="7qCfZDDpdyVbDWVGjBB0-8" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="840" y="370" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrAkvuhnOhiqmWIet2XD-1" value="Knowledge Hub" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https://fonts.googleapis.com/css?family=Barlow+Condensed;fontSize=22;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="440" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -237,7 +240,7 @@
           <mxGeometry x="860" y="100" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-16" value="help via automation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="900" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DA57SqO3SpRG0Wt7Jsw-17" value="business automation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="870" y="270" width="120" height="60" as="geometry" />
@@ -331,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FoXMJgqXk0JIl_FoZb4C" name="DataBizFunctions">
-    <mxGraphModel dx="1139" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,7 +342,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qtJMao8DtnBOCYBs6tqn" name="ProjectBriefs">
-    <mxGraphModel dx="1139" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -347,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6_p8zdFfJWtDVtlYR0UY" name="(Practice) ProjectRequirements">
-    <mxGraphModel dx="1752" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
