@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:17:14.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LED3KU1rbgRHT1p3xSse" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:47:39.605Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qMbWC7sCVkz2hN10Cu4a" version="20.0.4" type="github" pages="11">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -333,28 +333,88 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FoXMJgqXk0JIl_FoZb4C" name="DataBizFunctions">
-    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="qtJMao8DtnBOCYBs6tqn" name="(Practice) ProjectBriefs">
     <mxGraphModel dx="1498" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="miDyrVCIM5DpefT-zySA-1" value="IN A GROUP (c. 20min) CONSIDER THE FOLLOWING PROJECT:&lt;br&gt;&lt;br&gt;ASSESSING THE CUSTOMER IMPACT OF LIFESTYLE IMAGERY VS. MODELLING IMAGERY ON ON-LINE SALES&lt;br&gt;&lt;br&gt;DATA, STAKEHOLDERS, SEC/GOV, IMPACT&lt;br&gt;&lt;br&gt;&lt;br&gt;http://draw.io" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;align=left;" vertex="1" parent="1">
-          <mxGeometry x="180" y="290" width="340" height="340" as="geometry" />
+        <mxCell id="miDyrVCIM5DpefT-zySA-1" value="IN A GROUP (c. 20min) CONSIDER THE FOLLOWING PROJECT:&lt;br&gt;&lt;br&gt;ASSESSING THE CUSTOMER IMPACT OF LIFESTYLE IMAGERY VS. MODELLING IMAGERY ON ON-LINE SALES&lt;br&gt;&lt;br&gt;DATA, STAKEHOLDERS, SEC/GOV, IMPACT&lt;br&gt;&lt;br&gt;&lt;br&gt;http://draw.io" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;align=left;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="340" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="miDyrVCIM5DpefT-zySA-2" value="online sales project" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="585" y="414" width="120" height="80" as="geometry" />
+        <mxCell id="miDyrVCIM5DpefT-zySA-3" value="Data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="miDyrVCIM5DpefT-zySA-3" value="stakeholders" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="700" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-1" value="Project Discussion" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="470" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-2" value="online sales" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-3" value="online sales" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-4" value="Objective" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-5" value="marketing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-6" value="Methods" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-7" value="control groups" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-8" value="Stakeholders" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-9" value="3rd party brands" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-10" value="franchiers" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-11" value="marketing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-12" value="content team" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-13" value="data analysis" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-14" value="Gov/Sec" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="680" y="610" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-15" value="Impact" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="880" y="550" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-16" value="customer consent for tracking" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="590" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-17" value="tracking view, mouse, etc.&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="490" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-18" value="collecting only relevant information" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="780" y="730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-19" value="model-A vs. model-B" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="180" y="730" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-20" value="Ethics" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="60" y="650" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-21" value="ethical" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FoXMJgqXk0JIl_FoZb4C" name="DataBizFunctions">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
