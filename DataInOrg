@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T10:09:45.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="C0mODuCKtsV0PjSeXcD5" version="20.0.4" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-07-07T10:12:23.957Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hFP5iBRW0oe_gX2n5zTu" version="20.0.4" type="github" pages="10">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8bg8ctKd3SiqDhWylQwu" name="BREAK">
-    <mxGraphModel dx="2569" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3254" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -540,7 +540,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FoXMJgqXk0JIl_FoZb4C" name="DataBizFunctions">
+  <diagram id="FoXMJgqXk0JIl_FoZb4C" name="ProjectReqs">
     <mxGraphModel dx="1627" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -605,7 +605,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6_p8zdFfJWtDVtlYR0UY" name="(Practice) ProjectRequirements">
+  <diagram id="6_p8zdFfJWtDVtlYR0UY" name="ProjectRequirements">
     <mxGraphModel dx="1752" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -616,22 +616,25 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="h6kiC61hL4WsDyoNPdLC" name="BREAK">
-    <mxGraphModel dx="1139" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="h6kiC61hL4WsDyoNPdLC" name="(Practice) BREAK">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Z0hS2H2frMofPpQvc6De-1" value="Max 5 content slides&lt;br&gt;&lt;br&gt;Max 10min" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="310" y="170" width="160" height="160" as="geometry" />
+        <mxCell id="Z0hS2H2frMofPpQvc6De-1" value="Max 5 content slides&lt;br&gt;&lt;br&gt;Max 10min" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="630" y="120" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="Z0hS2H2frMofPpQvc6De-2" value="One person to present?&lt;br&gt;&lt;br&gt;one person per slide?" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="160" height="160" as="geometry" />
+        <mxCell id="Z0hS2H2frMofPpQvc6De-2" value="One person to present?&lt;br&gt;&lt;br&gt;one person per slide?" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Z0hS2H2frMofPpQvc6De-3" value="Challenge yourselves: &lt;br&gt;software, &lt;br&gt;reports,&lt;br&gt;&amp;nbsp;stakeholders, &lt;br&gt;impacts, ..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="260" height="260" as="geometry" />
+        <mxCell id="Z0hS2H2frMofPpQvc6De-3" value="Challenge yourselves: &lt;br&gt;software, &lt;br&gt;reports,&lt;br&gt;&amp;nbsp;stakeholders, &lt;br&gt;impacts, ..." style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="260" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="Z0hS2H2frMofPpQvc6De-4" value="10 min = brainstorming&lt;br&gt;20 min = write up&lt;br&gt;10 min BREAK" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="210" height="210" as="geometry" />
+        <mxCell id="Z0hS2H2frMofPpQvc6De-4" value="10 min = brainstorming&lt;br&gt;20 min = write up&lt;br&gt;10 min BREAK" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="kLkIbBa9txqHIGTIAdnq-1" value="Group Practice &amp;amp; Break" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="370" width="610" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
