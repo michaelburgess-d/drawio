@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T09:51:20.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ahOOBJwhixOzKSd0FHsE" version="20.0.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-07T09:54:09.338Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8r_-0ySBLw65kzTuRLuq" version="20.0.4" type="github" pages="11">
   <diagram id="5mJcMba8RTxMSJq4UI1F" name="DataAnalysisInOrg">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -439,6 +439,103 @@
         </mxCell>
         <mxCell id="xzAHo6CogQYoF_wkrp5x-32" value="do they always?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="910" y="10" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-33" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="450" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-34" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="460" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-35" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="470" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-36" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-37" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-38" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-39" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-40" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-41" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-42" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-43" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-44" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-45" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-46" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-47" value="lifestyle image" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-48" value="model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-49" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;startArrow=none;" edge="1" parent="1" source="xzAHo6CogQYoF_wkrp5x-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="420" as="sourcePoint" />
+            <mxPoint x="1580" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-10" value="most similar?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="xzAHo6CogQYoF_wkrp5x-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1630.3333333333335" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xzAHo6CogQYoF_wkrp5x-50" value="compare pixel-by-pixel" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1545" y="490" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-7" value="what is this?" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="DLjMDOATEd1ow7v7yvvZ-5" target="xzAHo6CogQYoF_wkrp5x-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-5" value="new images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-8" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-9" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1700" y="590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-11" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-12" value="model images template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-13" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-14" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="610" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-15" value="lifestyle image&lt;br&gt;template" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1730" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" edge="1" parent="1" source="DLjMDOATEd1ow7v7yvvZ-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1809" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DLjMDOATEd1ow7v7yvvZ-16" value="new type of model images" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1754" y="260" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
