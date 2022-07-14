@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T12:52:02.694Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QPbmzh4F8076QWKIcpTr" version="20.0.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-14T12:52:20.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="44Kff5rZBaCdCUwaXx6E" version="20.0.3" type="github" pages="5">
   <diagram id="T9izqkk0OWogIafuLWBJ" name="IntroSQL">
     <mxGraphModel dx="1318" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -157,7 +157,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aok9EW1iVtmc7Md-N1HO" name="RDBMS?">
-    <mxGraphModel dx="639" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1802" dy="1914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,14 +215,16 @@
         <mxCell id="PLixWVLFFDqNt6RPB7Qc-18" value="sqlite = most common db in world = on every device" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="850" y="170" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="PLixWVLFFDqNt6RPB7Qc-19" value="contacts.db" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="940" y="580" width="90" height="90" as="geometry" />
+        <mxCell id="PLixWVLFFDqNt6RPB7Qc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" edge="1" parent="1" source="PLixWVLFFDqNt6RPB7Qc-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="939.3699999999999" y="610.5999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="PLixWVLFFDqNt6RPB7Qc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.34;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" edge="1" parent="1" source="PLixWVLFFDqNt6RPB7Qc-20" target="PLixWVLFFDqNt6RPB7Qc-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PLixWVLFFDqNt6RPB7Qc-23" value="contacts.db" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="PLixWVLFFDqNt6RPB7Qc-20" value="contacts app" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="950" y="510" width="90" height="90" as="geometry" />
+        <mxCell id="PLixWVLFFDqNt6RPB7Qc-24" value="contacts app" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-10" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
