@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T09:01:17.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bpfhMjiiNewrSjHS267M" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-19T09:01:46.567Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="cD53HbsH1PopRZoXzBpj" version="20.0.4" type="github" pages="6">
   <diagram id="y4VPEXvd-xxvY04ydPlc" name="IntroPreparingData">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -333,12 +333,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ta5HOZWQM9BvRZsCAycs" name="Collating">
-    <mxGraphModel dx="1798" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2569" dy="1417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jQIWgOXDYGkCDye2K06b-1" value="Where do we collate data from?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="610" y="10" width="546" height="271.52" as="geometry" />
+          <mxGeometry x="670" y="90" width="480" height="271.52" as="geometry" />
         </mxCell>
         <mxCell id="bJ4-3oPSoMef-8RNZ_Os-1" value="Files (Videos, Images)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Helvetica;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="500" y="140" width="140" height="140" as="geometry" />
@@ -353,7 +353,7 @@
           <mxGeometry x="800" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bJ4-3oPSoMef-8RNZ_Os-5" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--bs-font-monospace); font-size: 0.875em; direction: ltr; unicode-bidi: bidi-override; display: block; margin-top: 0px; margin-bottom: 1rem; overflow: auto; padding: 1rem !important; --bs-text-opacity:1; color: rgba(var(--bs-white-rgb),var(--bs-text-opacity)) !important; --bs-bg-opacity:1; background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity)) !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot; class=&quot;bg-dark text-white p-3&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: var(--bs-font-monospace); font-size: inherit; direction: ltr; unicode-bidi: bidi-override; color: inherit; overflow-wrap: break-word; word-break: normal;&quot;&gt;https://api.open-meteo.com/v1/forecast?latitude=52.52&amp;amp;longitude=13.41&amp;amp;hourly=temperature_2m,relativehumidity_2m,windspeed_10m&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fontFamily=Helvetica;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="630" width="1010" height="60" as="geometry" />
+          <mxGeometry x="40" y="640" width="1010" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bJ4-3oPSoMef-8RNZ_Os-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="bJ4-3oPSoMef-8RNZ_Os-7" target="bJ4-3oPSoMef-8RNZ_Os-11">
           <mxGeometry relative="1" as="geometry" />
