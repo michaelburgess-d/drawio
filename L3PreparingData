@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:39:46.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SPfxXhc8TuJR2d_XRUGU" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:47:38.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="3YrPQarn7cmDsV3m57It" version="20.0.4" type="github" pages="6">
   <diagram id="y4VPEXvd-xxvY04ydPlc" name="IntroPreparingData">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -223,24 +223,67 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Ta5HOZWQM9BvRZsCAycs" name="Collating">
-    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="jwkdYEyOqsdcaot4C5mF" name="Cleaning">
+    <mxGraphModel dx="2248" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jQIWgOXDYGkCDye2K06b-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="b6AkgcZUEW20_9jfHOk2-1" value="How do we clean data?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="jwkdYEyOqsdcaot4C5mF" name="Cleaning">
-    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="b6AkgcZUEW20_9jfHOk2-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
+        <mxCell id="kwU5XsphJM2M71YddO_n-1" value="fix spelling, text values, etc." style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="kwU5XsphJM2M71YddO_n-2" target="kwU5XsphJM2M71YddO_n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-2" value="removing, adding columns" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-3" value="column data type" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="223.5" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-4" value="replace missing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="300" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="kwU5XsphJM2M71YddO_n-7" target="kwU5XsphJM2M71YddO_n-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-7" value="use an average" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="370" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-8" value="delete" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="kwU5XsphJM2M71YddO_n-9" target="kwU5XsphJM2M71YddO_n-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-9" value="convert to table" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-10" value="handle duplicates" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#6a00ff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="596.5" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-11" value="cleaning steps" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-12" value="using a function" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-14" value="minimises biasing" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="370" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-16" value="JSON" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-18" value="CSV: michael,london,uk&lt;br&gt;&lt;br&gt;JSON:&lt;br&gt;{&lt;br&gt;&amp;nbsp; &quot;name&quot;: &quot;Michael&quot;,&amp;nbsp;&lt;br&gt;&amp;nbsp; &quot;address&quot;: {&lt;br&gt;&amp;nbsp; &amp;nbsp;&quot;city&quot;: &quot;London&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp;&quot;country&quot;: &quot;UK&quot;&lt;br&gt;&amp;nbsp; }&lt;br&gt;}, ..." style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=22;fontColor=#000000;fontFamily=Courier New;align=left;" vertex="1" parent="1">
+          <mxGeometry x="840" y="380" width="320" height="406.5" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-19" value="Michael, London, UK" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kwU5XsphJM2M71YddO_n-20" value="Michael Burgess, London, UK" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="170" y="750" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -251,6 +294,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wwhKiZe2hKBdQZMkXLFQ-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ta5HOZWQM9BvRZsCAycs" name="Collating">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jQIWgOXDYGkCDye2K06b-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
         </mxCell>
       </root>
