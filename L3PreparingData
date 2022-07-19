@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T08:00:18.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ziz9ORJjIaExWcvyxZXI" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-19T08:38:16.515Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Nwm-yX85rM-604mqpvKi" version="20.0.4" type="github" pages="6">
   <diagram id="y4VPEXvd-xxvY04ydPlc" name="IntroPreparingData">
     <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,19 +28,191 @@
         <mxCell id="gzDGASCv6wH7buP9Rdb3-9" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="886" y="680" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5old3PZHWYq-1EAFhBAv-1" value="&lt;b id=&quot;docs-internal-guid-add8a6bb-7fff-c792-d87b-cbc7a381dd81&quot; style=&quot;font-weight: normal; font-size: 22px;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px; font-size: 22px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What are the 4Cs?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Why do we prepare data?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What is data quality?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What do we use power query for?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What is JSON?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What does it mean to join datasets?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What is a primary key? What is a foreign key?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What problems can happen if we fail to prepare data well?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fillColor=#1ba1e2;fontColor=#FFFFFF;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="20" y="282.38" width="720" height="319.24" as="geometry" />
+        <mxCell id="5old3PZHWYq-1EAFhBAv-1" value="&lt;b id=&quot;docs-internal-guid-add8a6bb-7fff-c792-d87b-cbc7a381dd81&quot; style=&quot;font-weight: normal; font-size: 22px;&quot;&gt;&lt;ul style=&quot;margin-top: 0px; margin-bottom: 0px; padding-inline-start: 48px; font-size: 22px;&quot;&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What are the 4Cs?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;Why do we prepare data?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What is data quality?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type: disc; font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot; dir=&quot;ltr&quot;&gt;&lt;p role=&quot;presentation&quot; style=&quot;line-height: 1.56; margin-top: 0pt; margin-bottom: 0pt; font-size: 22px;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 22px; font-family: &amp;quot;Work Sans&amp;quot;, sans-serif; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;&quot;&gt;What do we use power query for?&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=22;fillColor=#1ba1e2;fontColor=#FFFFFF;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="282.38" width="720" height="157.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="EQms21MRH68rr9XvgelS" name="PreparingData?">
-    <mxGraphModel dx="1284" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1498" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Hmh_6wNZotvbh1fzUYz1-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
+        <mxCell id="Hmh_6wNZotvbh1fzUYz1-1" value="Why do we prepare data?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="456" height="271.52" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-1" value="Easier to Analyse" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="320" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-2" value="Easier to Check for Suitability" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-3" value="Make it possible to &quot;work with&quot;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-4" value="&lt;font color=&quot;#000000&quot;&gt;Removing&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="496" y="100" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-6" value="The 4Cs" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="810" y="249.24" width="326" height="200.76" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="iuMxxU1WNqN6HeOClgej-7" target="iuMxxU1WNqN6HeOClgej-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="480" />
+              <mxPoint x="1030" y="480" />
+              <mxPoint x="1030" y="790" />
+              <mxPoint x="795" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-7" value="&lt;font color=&quot;#000000&quot;&gt;Collate&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="500" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-8" value="&lt;font color=&quot;#000000&quot;&gt;Clean&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="570" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-9" value="&lt;font color=&quot;#000000&quot;&gt;Check&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="640" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-10" value="&lt;font color=&quot;#000000&quot;&gt;Construct&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="680" y="710" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-12" value="sourcing data" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-13" value="fixing errors &amp;amp; mistakes" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="810" y="540" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-15" value="validating data quality" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="560" y="600" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMxxU1WNqN6HeOClgej-17" value="joining, merging" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="815" y="670" width="180" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="XwaQrEoiJ95B17X8k4Dz" name="Checking">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UNP9ARsiRxfRjg4-VQtE-1" value="Data Quality" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="20" width="360" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-1" value="Statistical Measures" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="479.24" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-2" value="Trust" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="230" y="70" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-3" value="Relevance" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-6" value="accuracy" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="608.48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-7" value="precision" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="678.48" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="490" y="450" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="500" y="460" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="510" y="470" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="480" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="530" y="490" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="530" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-33" value="90%" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="860" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-34" value="Suppose these rows are the vital ones" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=22;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="pmaDRxvA5BkqlSmLuixu-27">
+          <mxGeometry x="1" y="-128" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="630" as="sourcePoint" />
+            <mxPoint x="570" y="450" as="targetPoint" />
+            <mxPoint x="43" y="-35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-35" value="Lineage" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="540" y="321.52" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-36" value="history of its uses" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="260" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-37" value="test centre" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-38" value="nhs" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-39" value="public gov" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="251.51999999999998" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-40" value="decoded" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-41" value="Recored" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="20" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="pmaDRxvA5BkqlSmLuixu-42" target="pmaDRxvA5BkqlSmLuixu-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-42" value="Averaging" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="900" y="50" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-43" value="Replacing&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="900" y="210" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-44" value="Annoymisation" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="900" y="260" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-45" value="data corp" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="760" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-49" value="WRONG" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;fontColor=#000000;" edge="1" parent="1" source="pmaDRxvA5BkqlSmLuixu-46" target="pmaDRxvA5BkqlSmLuixu-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-46" value="Storing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="900" y="110" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-47" value="Storing" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="900" y="180" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-50" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="80" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-51" value="65k row" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=22;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="180" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-52" value="&quot;meaingless&quot; measures" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390.76" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-53" value="interpretation" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="530" y="70" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pmaDRxvA5BkqlSmLuixu-54" value="social factors" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -62,17 +234,6 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b6AkgcZUEW20_9jfHOk2-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="XwaQrEoiJ95B17X8k4Dz" name="Checking">
-    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="UNP9ARsiRxfRjg4-VQtE-1" value="(L3) Preparing Data" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="700" y="10" width="456" height="271.52" as="geometry" />
         </mxCell>
       </root>
