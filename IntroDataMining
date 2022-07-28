@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T12:17:12.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="qILNrx54DlA-oLoTB9TV" version="20.1.1" type="github">
-  <diagram id="MHNkxBpjo33Ez7cBxmRV" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2022-07-28T12:18:13.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XK6eiNFWas_Avc4DScMR" version="20.1.1" type="github" pages="3">
+  <diagram id="MHNkxBpjo33Ez7cBxmRV" name="IntroOverview">
     <mxGraphModel dx="1798" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -27,6 +27,31 @@
         </mxCell>
         <mxCell id="ZGdd5EBSz60T8jr84Xl--8" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="886" y="680" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cbr1VM96xhqz_jYeOQOz" name="WhyDM?">
+    <mxGraphModel dx="1798" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mJ-_OfGPzyX0l-dNs4Hp-1" value="Why Data Mining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="830" y="60" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mJ-_OfGPzyX0l-dNs4Hp-2" value="What&#39;s relevant to &lt;br&gt;Data Mining &lt;br&gt;&amp;amp; Machine Learning?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="340" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JOdBToYLoAYL72DdRhSW" name="MethodologyOfML">
+    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xTLl_S5Ol6s8sx2nm0PL-1" value="The Methodology of ML" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="60" width="386.26" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
