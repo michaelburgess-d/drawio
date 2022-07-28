@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T12:18:13.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XK6eiNFWas_Avc4DScMR" version="20.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-28T13:01:37.884Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hOVxdszXKxifdSDy8X4-" version="20.1.1" type="github" pages="4">
   <diagram id="MHNkxBpjo33Ez7cBxmRV" name="IntroOverview">
     <mxGraphModel dx="1798" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -37,16 +37,134 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mJ-_OfGPzyX0l-dNs4Hp-1" value="Why Data Mining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="830" y="60" width="330" height="100" as="geometry" />
+          <mxGeometry x="820" y="75" width="330" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mJ-_OfGPzyX0l-dNs4Hp-2" value="What&#39;s relevant to &lt;br&gt;Data Mining &lt;br&gt;&amp;amp; Machine Learning?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-1" value="Predictions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="630" y="640" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-2" value="Large Datasets" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="380" y="85" width="195" height="195" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="1" source="-UVBICMm-amGG-SCusd0-3" target="-UVBICMm-amGG-SCusd0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=21;" edge="1" parent="1" source="-UVBICMm-amGG-SCusd0-3" target="-UVBICMm-amGG-SCusd0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-3" value="Relationships" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="400" y="430" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-4" value="Noise, &lt;b&gt;Quantity&lt;/b&gt;&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-5" value="Intelligent Search" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-7" value="What is Data Mining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-8" value="How Data Mining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="820" y="340" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-9" value="Use risk wisely" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="310" y="610" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-11" value="Non-obvious&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-12" value="Search" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="700" y="380" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-13" value="Volume" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="150" y="580" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-14" value="Is it worth starting?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="810" y="530" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-15" value="ROI" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="940" y="510" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-16" value="do we have the data?" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="670" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-17" value="Number of rows" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-18" value="Number of columns" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="650" y="115" width="155" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="-UVBICMm-amGG-SCusd0-19" value="Data Quality&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="890" y="660" width="107.75" height="107.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dG7cyEjOaoZRqK0L2lKH" name="Models&amp;Algorithms">
+    <mxGraphModel dx="1383" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="ve9_Np5P_CDPbpX_9tYt-1" target="ve9_Np5P_CDPbpX_9tYt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-1" value="Data (X, y)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-2" value="$$X$$ observable features" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="670" y="30" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-3" value="$$y$$ unobservable target" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="ve9_Np5P_CDPbpX_9tYt-4" target="ve9_Np5P_CDPbpX_9tYt-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-4" value="experiment" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="140" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=22;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ve9_Np5P_CDPbpX_9tYt-6" target="ve9_Np5P_CDPbpX_9tYt-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.30769230769215" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-6" value="Algorithm(look for small ab)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-8" value="prepare" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="315" y="295" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-9" value="&quot;searching&quot; pattern-finding" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="70" y="410" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-11" value="Model" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="290" y="610" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-12" value="$$y = 2x+1$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="490" y="640" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-13" value="$$y = ax+b$$" style="rounded=1;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="85" y="470" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-17" value="$$(a, b)$$ finding values of parameters (pattern template) which are &#39;abotu right&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="670" y="420" width="450" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="776.7166075721153" as="sourcePoint" />
+            <mxPoint x="990" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ve9_Np5P_CDPbpX_9tYt-19" value="hyper-parameters = instructions for alg." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="255" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="JOdBToYLoAYL72DdRhSW" name="MethodologyOfML">
-    <mxGraphModel dx="1635" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
