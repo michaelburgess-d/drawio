@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T08:18:12.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DNjCZpHnnc59WOfm6PNO" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-03T08:28:26.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1d-wYYVb38p-FAxA32qN" version="20.2.2" type="github" pages="4">
   <diagram id="IVtKhJgVxS_b079tX_bR" name="IntroDM">
     <mxGraphModel dx="1998" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -36,9 +36,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="izrGvF-lqkAOns5MmFs8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" edge="1" parent="1" source="WZqP-esmX5vL-M2uBSQN-1" target="ozFbc0sK58eKQjdkkydV-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WZqP-esmX5vL-M2uBSQN-1" value="What is Data Minining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="340" height="230" as="geometry" />
         </mxCell>
@@ -53,6 +50,36 @@
         </mxCell>
         <mxCell id="izrGvF-lqkAOns5MmFs8-2" value="DM always ends with this!" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="460" y="180" width="215" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-1" value="Machine Learning" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="260" y="165" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-2" value="Patterns" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="300" y="430" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-3" value="Trends" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="525" y="560" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-5" value="correlation between two or more quantities over some range (of time)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="440" y="450" width="350" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-6" value="correlation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="90" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-8" value="Can we trust correlations?" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-9" value="Correlation alone isnt a good reason to decide anything -- correlations arent causal&lt;br&gt;&lt;br&gt;In cases where two variables are highly correlated, one is kinda redundant" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="790" y="20" width="360" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-10" value="Groups" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="310" y="650" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-12" value="correlation between quantities and categories" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qVzJJtW-Oc53zyluZMg1-16" value="Regex =&amp;nbsp; Searching Text" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
