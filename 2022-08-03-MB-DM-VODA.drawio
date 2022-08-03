@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T12:50:22.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6g-VsKxeApRWWQz0VDkk" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-03T12:50:29.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9zJU5YtjJ0Jx5RC9okAj" version="20.2.2" type="github" pages="4">
   <diagram id="IVtKhJgVxS_b079tX_bR" name="IntroDM">
     <mxGraphModel dx="1635" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -75,13 +75,13 @@
         <mxCell id="gfJbTjdeo-92f3hb2D58-11" value="Predictions" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="470" y="520" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gfJbTjdeo-92f3hb2D58-12" value="Estimation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gfJbTjdeo-92f3hb2D58-12" value="Estimation" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="642" y="560" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gfJbTjdeo-92f3hb2D58-13" value="Simulation = Imagine" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="642" y="740" width="328" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gfJbTjdeo-92f3hb2D58-14" value="predicting the value of variable" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="gfJbTjdeo-92f3hb2D58-14" value="predicting the value of variable" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="642" y="500" width="330" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gfJbTjdeo-92f3hb2D58-15" value="rich understanding of causes/effects" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
