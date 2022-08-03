@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T12:50:43.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PP2MrUJOIsEF-wr6B2o4" version="20.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-03T13:03:15.835Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="h_oIp4IdNGEglHnBtO4W" version="20.2.2" type="github" pages="4">
   <diagram id="IVtKhJgVxS_b079tX_bR" name="IntroDM">
     <mxGraphModel dx="1635" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -100,12 +100,105 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5P6c5RsYsG33mdZFpHvr" name="WhatIsML?">
-    <mxGraphModel dx="899" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1798" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C5ij-oq2u1S5S8mKFe0q-1" value="What is ML?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="50" y="60" width="386.26" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" edge="1" parent="1" source="d73WDXWSc9QX89a-Wngp-1" target="TfDn30RjzXp4CmwyCraX-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d73WDXWSc9QX89a-Wngp-1" value="Historical Data" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="294" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-1" value="finding patterns in historical data" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-2" value="X&lt;br&gt;20&lt;br&gt;30&lt;br&gt;40" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="50" width="60" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-3" value="y&lt;br&gt;Yes&lt;br&gt;No&lt;br&gt;No" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="50" width="60" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-5" value="y = (x - a) &amp;lt;= b" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="290" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-6" value="X&lt;br&gt;20&lt;br&gt;30&lt;br&gt;40" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="60" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-7" value="y&lt;br&gt;25&lt;br&gt;35&lt;br&gt;45" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="770" y="460" width="60" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-8" value="y = a*x + b" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="700" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-9" value="(1, 5)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="940" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-10" value="(20, 0)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-11" value="summary of historical" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="970" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-12" value="allow us to compute y, given x" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="980" y="450" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-13" value="modelling, fitting" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-15" value="prepare" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" edge="1" parent="1" source="TfDn30RjzXp4CmwyCraX-18" target="TfDn30RjzXp4CmwyCraX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-18" value="(a, b)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" edge="1" parent="1" source="TfDn30RjzXp4CmwyCraX-19" target="TfDn30RjzXp4CmwyCraX-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-19" value="Xnew&lt;br&gt;21&lt;br&gt;32&lt;br&gt;43" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="170" y="680" width="60" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-20" value="ypred&lt;br&gt;No&lt;br&gt;No&lt;br&gt;No" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="430" y="670" width="70" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-24" value="PREDICTION" style="swimlane;startSize=0;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-25" value="Evaluation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1000" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-26" value="Xnew&lt;br&gt;21&lt;br&gt;32&lt;br&gt;43" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="290" y="990" width="60" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-27" value="ypred&lt;br&gt;No&lt;br&gt;No&lt;br&gt;No" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="980" width="70" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-28" value="(a, b)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1170" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-29" value="y&lt;br&gt;Yes&lt;br&gt;No&lt;br&gt;No" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="980" width="60" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-30" value="ypred&lt;br&gt;0&lt;br&gt;0&lt;br&gt;0" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1250" width="70" height="222.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-31" value="y&lt;br&gt;1&lt;br&gt;0&lt;br&gt;0" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="555" y="1250" width="60" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-32" value="(0 - 1) + (0 - 0) + ...&amp;nbsp; /3" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1500" width="270" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-33" value="66%" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1500" width="110" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="TfDn30RjzXp4CmwyCraX-34" value="mean( abs( pred - obs ) )" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Work Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DWork%2BSans;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1585" width="270" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
