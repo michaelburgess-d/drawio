@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T07:45:52.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.2.2" etag="strkL53LyvVbAOVUbGfP" type="github"><diagram id="IVtKhJgVxS_b079tX_bR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-03T08:04:13.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="t2PqfM-Hhdr8voaAVlRx" version="20.2.2" type="github" pages="2">
+  <diagram id="IVtKhJgVxS_b079tX_bR" name="IntroDM">
+    <mxGraphModel dx="1998" dy="1102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iZVRpnwxdh2GqlOplQol-1" value="Introduction to &lt;br&gt;Data Mining" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="456" height="271.52" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-2" value="Safeguarding" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="836" y="475" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-3" value="Courseware" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="836" y="750" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-4" value="Introductions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="836" y="350" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-5" value="Values &amp;amp; Principles" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#FFFF33;strokeColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="836" y="412" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-6" value="Wellbeing" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=none;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="886" y="540" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-7" value="stressed, overwhelmed, struggling" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=0;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="886" y="680" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iZVRpnwxdh2GqlOplQol-8" value="safeguarding@decoded.com" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=22;fillColor=#1ba1e2;strokeColor=#006EAF;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="886" y="610" width="270" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MynhFzCY_Ho8T6Nz2wVu" name="WhyDM?">
+    <mxGraphModel dx="899" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WZqP-esmX5vL-M2uBSQN-1" value="What is Data Minining?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="WZqP-esmX5vL-M2uBSQN-2" value="Why is Data Mining Useful?" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FFFF33;strokeColor=none;fontFamily=Barlow Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DBarlow%2BCondensed;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="340" height="230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
